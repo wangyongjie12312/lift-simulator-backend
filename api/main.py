@@ -1,7 +1,9 @@
 # api/main.py
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-import os
+
+from api import state
+from api.routers import cases, health, public, simulate, units
 
 app = FastAPI()
 
@@ -19,6 +21,13 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-@app.get("/health")
-def health():
-    return {"status": "ok"}
+app.include_router(health.router)
+app.include_router(public.router)
+app.include_router(simulate.router)
+app.include_router(cases.router)
+app.include_router(units.router)
+
+
+@app.on_event("startup")
+def start_warm_up() -> None:
+    state.warm_up()

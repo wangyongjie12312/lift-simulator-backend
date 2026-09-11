@@ -1,0 +1,61 @@
+{
+  "snapshot_at": "2026-09-10T12:18:48+00:00",
+  "source": "stub",
+  "units": {
+    "X-4500 325/400-001…2": {
+      "status": "unknown",
+      "location": null,
+      "job": null
+    },
+    "X-4500 450/700-001": {
+      "status": "unknown",
+      "location": null,
+      "job": null
+    },
+    "XS-5000 75-001": {
+      "status": "unknown",
+      "location": null,
+      "job": null
+    },
+    "X-4500 325/400-003": {
+      "status": "unknown",
+      "location": null,
+      "job": null
+    },
+    "C-4000 60/85-001": {
+      "status": "unknown",
+      "location": null,
+      "job": null
+    },
+    "C-4500 100/230-001…2": {
+      "status": "unknown",
+      "location": null,
+      "job": null
+    },
+    "C-3000 180/250-001": {
+      "status": "unknown",
+      "location": null,
+      "job": null
+    },
+    "C-3000 100/150-001…2": {
+      "status": "unknown",
+      "location": null,
+      "job": null
+    },
+    "C-4500 30/35-001": {
+      "status": "unknown",
+      "location": null,
+      "job": null
+    },
+    "C3-3000 400-001": {
+      "status": "unknown",
+      "location": null,
+      "job": null
+    },
+    "X-4803 325/400-003": {
+      "status": "unknown",
+      "location": null,
+      "job": null
+    }
+  }
+}

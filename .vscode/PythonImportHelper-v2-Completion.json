@@ -80,6 +80,126 @@
         "documentation": {}
     },
     {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
         "label": "List",
         "importPath": "typing",
         "description": "typing",
@@ -145,6 +265,182 @@
     },
     {
         "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "NamedTuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "NamedTuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -488,6 +784,14 @@
         "documentation": {}
     },
     {
+        "label": "load_units",
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "isExtraImport": true,
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
         "label": "CaseInputs",
         "importPath": "core.schema",
         "description": "core.schema",
@@ -635,11 +939,242 @@
         "documentation": {}
     },
     {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "secrets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "secrets",
+        "description": "secrets",
+        "detail": "secrets",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
         "label": "Path",
         "importPath": "pathlib",
         "description": "pathlib",
         "isExtraImport": true,
         "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
         "documentation": {}
     },
     {
@@ -1183,6 +1718,726 @@
         "description": "api.state",
         "peekOfCode": "CACHE_MAX = 32\ndef cache_get(key: str) -> Optional[Dict]:\n    with _lock:\n        if key in _cache:\n            _cache.move_to_end(key)\n            return _cache[key]\n    return None\ndef cache_put(key: str, value: Dict) -> None:\n    with _lock:\n        _cache[key] = value",
         "detail": "api.state",
+        "documentation": {}
+    },
+    {
+        "label": "hydrostatic_bar",
+        "kind": 2,
+        "importPath": "core.engine.placeholder",
+        "description": "core.engine.placeholder",
+        "peekOfCode": "def hydrostatic_bar(depth_m: float) -> float:\n    \"\"\"深度 → 绝对环境压力 [bar]。水面以上（负深度）即大气压。\"\"\"\n    if depth_m <= 0.0:\n        return P_ATM_BAR\n    return P_ATM_BAR + RHO_SW * G * depth_m / 1e5\ndef temperature_profile(depths: List[float], case: CaseInputs) -> List[float]:\n    \"\"\"海水温度剖面 [°C]。\n    ``Safelink formula`` 走已移植并验证过的\n    :func:`core.physics.sea_temperature.sea_temperature`；\n    水面以上用空气温度。``Constant`` 全程用表面温度。",
+        "detail": "core.engine.placeholder",
+        "documentation": {}
+    },
+    {
+        "label": "temperature_profile",
+        "kind": 2,
+        "importPath": "core.engine.placeholder",
+        "description": "core.engine.placeholder",
+        "peekOfCode": "def temperature_profile(depths: List[float], case: CaseInputs) -> List[float]:\n    \"\"\"海水温度剖面 [°C]。\n    ``Safelink formula`` 走已移植并验证过的\n    :func:`core.physics.sea_temperature.sea_temperature`；\n    水面以上用空气温度。``Constant`` 全程用表面温度。\n    ``User table`` 本版未实现，退回 ``Constant`` 并在结果里说明。\n    \"\"\"\n    prof = case.sea_temp_profile\n    out: List[float] = []\n    for d in depths:",
+        "detail": "core.engine.placeholder",
+        "documentation": {}
+    },
+    {
+        "label": "simulate",
+        "kind": 2,
+        "importPath": "core.engine.placeholder",
+        "description": "core.engine.placeholder",
+        "peekOfCode": "def simulate(unit: PHCUnit, case: CaseInputs) -> SimResult:\n    \"\"\"跑一次仿真。\n    Parameters\n    ----------\n    unit\n        选中的补偿器。\n    case\n        全部用户输入。\n    Returns\n    -------",
+        "detail": "core.engine.placeholder",
+        "documentation": {}
+    },
+    {
+        "label": "RHO_SW",
+        "kind": 5,
+        "importPath": "core.engine.placeholder",
+        "description": "core.engine.placeholder",
+        "peekOfCode": "RHO_SW = 1025.0\nG = 9.80665\nP_ATM_BAR = 1.01325\n#: 本版所有非环境列都是合成的\nPLACEHOLDER = True\n# ---------------------------------------------------------------------------\n#  真算的部分\n# ---------------------------------------------------------------------------\ndef hydrostatic_bar(depth_m: float) -> float:\n    \"\"\"深度 → 绝对环境压力 [bar]。水面以上（负深度）即大气压。\"\"\"",
+        "detail": "core.engine.placeholder",
+        "documentation": {}
+    },
+    {
+        "label": "G",
+        "kind": 5,
+        "importPath": "core.engine.placeholder",
+        "description": "core.engine.placeholder",
+        "peekOfCode": "G = 9.80665\nP_ATM_BAR = 1.01325\n#: 本版所有非环境列都是合成的\nPLACEHOLDER = True\n# ---------------------------------------------------------------------------\n#  真算的部分\n# ---------------------------------------------------------------------------\ndef hydrostatic_bar(depth_m: float) -> float:\n    \"\"\"深度 → 绝对环境压力 [bar]。水面以上（负深度）即大气压。\"\"\"\n    if depth_m <= 0.0:",
+        "detail": "core.engine.placeholder",
+        "documentation": {}
+    },
+    {
+        "label": "P_ATM_BAR",
+        "kind": 5,
+        "importPath": "core.engine.placeholder",
+        "description": "core.engine.placeholder",
+        "peekOfCode": "P_ATM_BAR = 1.01325\n#: 本版所有非环境列都是合成的\nPLACEHOLDER = True\n# ---------------------------------------------------------------------------\n#  真算的部分\n# ---------------------------------------------------------------------------\ndef hydrostatic_bar(depth_m: float) -> float:\n    \"\"\"深度 → 绝对环境压力 [bar]。水面以上（负深度）即大气压。\"\"\"\n    if depth_m <= 0.0:\n        return P_ATM_BAR",
+        "detail": "core.engine.placeholder",
+        "documentation": {}
+    },
+    {
+        "label": "PLACEHOLDER",
+        "kind": 5,
+        "importPath": "core.engine.placeholder",
+        "description": "core.engine.placeholder",
+        "peekOfCode": "PLACEHOLDER = True\n# ---------------------------------------------------------------------------\n#  真算的部分\n# ---------------------------------------------------------------------------\ndef hydrostatic_bar(depth_m: float) -> float:\n    \"\"\"深度 → 绝对环境压力 [bar]。水面以上（负深度）即大气压。\"\"\"\n    if depth_m <= 0.0:\n        return P_ATM_BAR\n    return P_ATM_BAR + RHO_SW * G * depth_m / 1e5\ndef temperature_profile(depths: List[float], case: CaseInputs) -> List[float]:",
+        "detail": "core.engine.placeholder",
+        "documentation": {}
+    },
+    {
+        "label": "SimResult",
+        "kind": 6,
+        "importPath": "core.engine.result",
+        "description": "core.engine.result",
+        "peekOfCode": "class SimResult:\n    \"\"\"一次仿真的完整输出。列名与旧程序前面板指示器一一对应。\"\"\"\n    depth_m: List[float] = field(default_factory=list)\n    T_c: List[float] = field(default_factory=list)\n    P_env_bar: List[float] = field(default_factory=list)\n    P_oil_barg: List[float] = field(default_factory=list)\n    P_sz_barg: List[float] = field(default_factory=list)\n    P_ss_barg: List[float] = field(default_factory=list)\n    P_hp_barg: List[float] = field(default_factory=list)\n    stroke_m: List[float] = field(default_factory=list)",
+        "detail": "core.engine.result",
+        "documentation": {}
+    },
+    {
+        "label": "booster_energy_consumption",
+        "kind": 2,
+        "importPath": "core.physics.booster_energy_consumption",
+        "description": "core.physics.booster_energy_consumption",
+        "peekOfCode": "def booster_energy_consumption(\n    P1: float,\n    P2: float,\n    displacement: float,\n) -> float:\n    \"\"\"``booster energy consumption.vi`` 的 Python 等价实现。\n    Parameters\n    ----------\n    P1\n        起始（吸入侧）压力 [Pa 绝对]。",
+        "detail": "core.physics.booster_energy_consumption",
+        "documentation": {}
+    },
+    {
+        "label": "booster_energy_kwh",
+        "kind": 2,
+        "importPath": "core.physics.booster_energy_consumption",
+        "description": "core.physics.booster_energy_consumption",
+        "peekOfCode": "def booster_energy_kwh(P1: float, P2: float, displacement: float) -> float:\n    \"\"\"同上，单位换成 kWh（主界面指示器用的单位）。\"\"\"\n    return booster_energy_consumption(P1, P2, displacement) / J_PER_KWH\n# ---------------------------------------------------------------------------\n# 待确认问题\n# ---------------------------------------------------------------------------\nOPEN_QUESTIONS = \"\"\"\nQ1 这是**理想气体**等温功，而仿真器其余部分全用 PR EOS。\n   高压下（300 bar 时 N2 的 Z≈1.15）偏差可达十几个百分点。\n   这是有意的简化（毕竟指示器名字就叫 \"ideal isotherm energy\"），",
+        "detail": "core.physics.booster_energy_consumption",
+        "documentation": {}
+    },
+    {
+        "label": "OPEN_QUESTIONS",
+        "kind": 5,
+        "importPath": "core.physics.booster_energy_consumption",
+        "description": "core.physics.booster_energy_consumption",
+        "peekOfCode": "OPEN_QUESTIONS = \"\"\"\nQ1 这是**理想气体**等温功，而仿真器其余部分全用 PR EOS。\n   高压下（300 bar 时 N2 的 Z≈1.15）偏差可达十几个百分点。\n   这是有意的简化（毕竟指示器名字就叫 \"ideal isotherm energy\"），\n   还是遗留问题？新版要不要给个基于 PR 的版本并排显示？\nQ2 没有任何**泵效率**因子。实际增压泵的等温效率通常 0.5~0.7，\n   真实能耗是这个值的 1.5~2 倍。这个折算是在别处做的，\n   还是就默认由用户自己心算？\nQ3 \"displacement\" 到底指什么？是单次冲程排量，还是整个作业过程中\n   累计泵送的气体体积（在 P1 下折算）？调用方那段框图能确认吗？",
+        "detail": "core.physics.booster_energy_consumption",
+        "documentation": {}
+    },
+    {
+        "label": "GasConstants",
+        "kind": 6,
+        "importPath": "core.physics.calculate_pressure",
+        "description": "core.physics.calculate_pressure",
+        "peekOfCode": "class GasConstants:\n    \"\"\"对应 LabVIEW 的 ``gas constants`` 簇（含嵌套的 ``derived gas constants``）。\n    b / a_c / kappa 在原程序里是**预先算好存在簇里的常量**，不是运行时算的。\n    本类照此处理：默认取截图里的数值；``from_critical()`` 可以按标准关联式\n    重新推导（自检里用来验证两者一致）。\n    \"\"\"\n    # --- gas constants 本体 ---\n    omega: float          # 偏心因子 [-]\n    T_c: float            # 临界温度 [K]\n    P_c: float            # 临界压力 [Pa]",
+        "detail": "core.physics.calculate_pressure",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_pressure",
+        "kind": 2,
+        "importPath": "core.physics.calculate_pressure",
+        "description": "core.physics.calculate_pressure",
+        "peekOfCode": "def calculate_pressure(\n    n_PREOS: float,\n    gas_volume: float,\n    temperature: float,\n    gas: GasConstants = NITROGEN,\n    R: float = R_LABVIEW,\n) -> float:\n    \"\"\"``Calculate Pressure.vi`` 的 Python 等价实现。\n    Parameters\n    ----------",
+        "detail": "core.physics.calculate_pressure",
+        "documentation": {}
+    },
+    {
+        "label": "_PR_OMEGA_B",
+        "kind": 5,
+        "importPath": "core.physics.calculate_pressure",
+        "description": "core.physics.calculate_pressure",
+        "peekOfCode": "_PR_OMEGA_B = 0.0777960739038884      # = 精确值，非教科书的 0.07780\n_PR_OMEGA_A = 0.4572355289213822      # = 精确值，非教科书的 0.45724\n_PR_K0, _PR_K1, _PR_K2 = 0.37464, 1.54226, -0.26992\n# ---------------------------------------------------------------------------\n# 气体常数簇\n# ---------------------------------------------------------------------------\n@dataclass(frozen=True)\nclass GasConstants:\n    \"\"\"对应 LabVIEW 的 ``gas constants`` 簇（含嵌套的 ``derived gas constants``）。\n    b / a_c / kappa 在原程序里是**预先算好存在簇里的常量**，不是运行时算的。",
+        "detail": "core.physics.calculate_pressure",
+        "documentation": {}
+    },
+    {
+        "label": "_PR_OMEGA_A",
+        "kind": 5,
+        "importPath": "core.physics.calculate_pressure",
+        "description": "core.physics.calculate_pressure",
+        "peekOfCode": "_PR_OMEGA_A = 0.4572355289213822      # = 精确值，非教科书的 0.45724\n_PR_K0, _PR_K1, _PR_K2 = 0.37464, 1.54226, -0.26992\n# ---------------------------------------------------------------------------\n# 气体常数簇\n# ---------------------------------------------------------------------------\n@dataclass(frozen=True)\nclass GasConstants:\n    \"\"\"对应 LabVIEW 的 ``gas constants`` 簇（含嵌套的 ``derived gas constants``）。\n    b / a_c / kappa 在原程序里是**预先算好存在簇里的常量**，不是运行时算的。\n    本类照此处理：默认取截图里的数值；``from_critical()`` 可以按标准关联式",
+        "detail": "core.physics.calculate_pressure",
+        "documentation": {}
+    },
+    {
+        "label": "NITROGEN",
+        "kind": 5,
+        "importPath": "core.physics.calculate_pressure",
+        "description": "core.physics.calculate_pressure",
+        "peekOfCode": "NITROGEN = GasConstants(\n    omega=0.04,\n    T_c=126.1,\n    P_c=3_394_000.0,\n    cp_a=31.15,\n    cp_b=-0.01357,\n    cp_c=2.68e-5,\n    cp_d=-1.168e-8,\n    M=0.028014,\n    b=2.403227889361e-5,",
+        "detail": "core.physics.calculate_pressure",
+        "documentation": {}
+    },
+    {
+        "label": "OPEN_QUESTIONS",
+        "kind": 5,
+        "importPath": "core.physics.calculate_pressure",
+        "description": "core.physics.calculate_pressure",
+        "peekOfCode": "OPEN_QUESTIONS = \"\"\"\nQ1 Formula Node 里声明了 ``float64 dP_dn;`` 却从未使用。\n   是否存在一个兄弟 VI 计算 ∂P/∂n？\n   （典型用法：用牛顿迭代由目标压力反解摩尔数。若有，请一并给截图——\n     新版可以用解析导数，比二分法快很多。）\nQ2 气体常数簇是**框图常量**，写死了氮气。\n   实际产品里是否所有蓄能器都用 N2？\n   新版建议把它做成可选参数而不是硬编码。\nQ3 簇里带了 Cp 四次多项式 (31.15, -1.357e-2, 2.68e-5, -1.168e-8)，\n   本 VI 用不到。绝热/等熵过程的计算在哪个 VI 里？",
+        "detail": "core.physics.calculate_pressure",
+        "documentation": {}
+    },
+    {
+        "label": "TransferResult",
+        "kind": 6,
+        "importPath": "core.physics.gas_transfer",
+        "description": "core.physics.gas_transfer",
+        "peekOfCode": "class TransferResult(NamedTuple):\n    \"\"\"一次调节动作之后的两腔摩尔数。\"\"\"\n    n_src: float            #: 供气腔（通常是 SZ）转移后的摩尔数 [mol]\n    n_dst: float            #: 接收腔转移后的摩尔数 [mol]\n    clipped: bool           #: True = 触发了平衡截断，实际转移量小于 Δn\n    delta_actual: float     #: 实际转移的摩尔数 [mol]（离开 src 为正）\n# ---------------------------------------------------------------------------\n# 内层 True Case：精确压力平衡解\n# ---------------------------------------------------------------------------\ndef equalise_moles(",
+        "detail": "core.physics.gas_transfer",
+        "documentation": {}
+    },
+    {
+        "label": "equalise_moles",
+        "kind": 2,
+        "importPath": "core.physics.gas_transfer",
+        "description": "core.physics.gas_transfer",
+        "peekOfCode": "def equalise_moles(\n    n_src: float, V_src: float,\n    n_dst: float, V_dst: float,\n) -> tuple[float, float]:\n    \"\"\"把两个腔室的气体重新分配到**压力相等**的状态。\n    Returns\n    -------\n    (n_src', n_dst')\n        平衡后的摩尔数。总量守恒。\n    Notes",
+        "detail": "core.physics.gas_transfer",
+        "documentation": {}
+    },
+    {
+        "label": "transfer_with_clip",
+        "kind": 2,
+        "importPath": "core.physics.gas_transfer",
+        "description": "core.physics.gas_transfer",
+        "peekOfCode": "def transfer_with_clip(\n    n_src: float, V_src: float,\n    n_dst: float, V_dst: float,\n    delta_n: float,\n    temperature: float,\n    gas: GasConstants = NITROGEN,\n    R: float = R_LABVIEW,\n    compare_against_trial: bool = False,\n) -> TransferResult:\n    \"\"\"Release to SS/HP/LP 与 Add from SS/HP/LP 分支的等价实现。",
+        "detail": "core.physics.gas_transfer",
+        "documentation": {}
+    },
+    {
+        "label": "OPEN_QUESTIONS",
+        "kind": 5,
+        "importPath": "core.physics.gas_transfer",
+        "description": "core.physics.gas_transfer",
+        "peekOfCode": "OPEN_QUESTIONS = \"\"\"\nQ1 【最关键】Δn 从哪来？\n   ``+`` 和 ``−`` 两个节点各有两个输入，都来自 Case 边框的隧道，\n   截图里看不到源头。需要一张能看到这些隧道连线源头的全景图，\n   或者直接告诉我这个 Case 结构的输入接口清单。\n   推测：上游按 EQ stroke 偏差算出的「需要从 SZ 转移掉的摩尔数」。\nQ2 ``>=`` 比较的第二个输入是转移前的 P_src 还是转移后的 P_src_trial？\n   本实现默认用转移前的值（compare_against_trial=False）。\n   两者只在「刚好跨过平衡点」的那一步有细微差别，但会影响\n   是否多做一次 clip。请确认那根线的源头。",
+        "detail": "core.physics.gas_transfer",
+        "documentation": {}
+    },
+    {
+        "label": "MolesResult",
+        "kind": 6,
+        "importPath": "core.physics.peng_robinson_isothermal_moles",
+        "description": "core.physics.peng_robinson_isothermal_moles",
+        "peekOfCode": "class MolesResult(NamedTuple):\n    \"\"\"对应原 VI 的两个输出，外加一个原 VI 没有的收敛标志。\"\"\"\n    n_PREOS: float          #: 摩尔数 [mol]\n    iterations: int         #: 退出时的 i（= 原 VI 的 ``Numeric`` 指示器）\n    converged: bool         #: 是靠容差退出(True)还是撞上迭代上限(False)\n    residual_pa: float      #: |P(n) − P_0| [Pa]，便于新版给出诊断信息\n# ---------------------------------------------------------------------------\n# 主函数\n# ---------------------------------------------------------------------------\ndef peng_robinson_isothermal_moles(",
+        "detail": "core.physics.peng_robinson_isothermal_moles",
+        "documentation": {}
+    },
+    {
+        "label": "peng_robinson_isothermal_moles",
+        "kind": 2,
+        "importPath": "core.physics.peng_robinson_isothermal_moles",
+        "description": "core.physics.peng_robinson_isothermal_moles",
+        "peekOfCode": "def peng_robinson_isothermal_moles(\n    pre_tension_pressure: float,\n    total_gas_volume: float,\n    temperature: float,\n    gas: GasConstants = NITROGEN,\n    R: float = R_LABVIEW,\n) -> MolesResult:\n    \"\"\"``Peng-Robinson Isothermal moles.vi`` 的 Python 等价实现。\n    Parameters\n    ----------",
+        "detail": "core.physics.peng_robinson_isothermal_moles",
+        "documentation": {}
+    },
+    {
+        "label": "moles",
+        "kind": 2,
+        "importPath": "core.physics.peng_robinson_isothermal_moles",
+        "description": "core.physics.peng_robinson_isothermal_moles",
+        "peekOfCode": "def moles(\n    pre_tension_pressure: float,\n    total_gas_volume: float,\n    temperature: float,\n    gas: GasConstants = NITROGEN,\n    R: float = R_LABVIEW,\n) -> float:\n    \"\"\"只要摩尔数时的便捷封装。\"\"\"\n    return peng_robinson_isothermal_moles(\n        pre_tension_pressure, total_gas_volume, temperature, gas, R).n_PREOS",
+        "detail": "core.physics.peng_robinson_isothermal_moles",
+        "documentation": {}
+    },
+    {
+        "label": "dP_dn",
+        "kind": 2,
+        "importPath": "core.physics.peng_robinson_isothermal_moles",
+        "description": "core.physics.peng_robinson_isothermal_moles",
+        "peekOfCode": "def dP_dn(\n    n: float,\n    total_gas_volume: float,\n    temperature: float,\n    gas: GasConstants = NITROGEN,\n    R: float = R_LABVIEW,\n) -> float:\n    \"\"\"∂P/∂n 的解析表达式（从主 Formula Node 里抽出来单独用）。\n    等温、定容下压力对摩尔数的导数 [Pa/mol]。\n    \"\"\"",
+        "detail": "core.physics.peng_robinson_isothermal_moles",
+        "documentation": {}
+    },
+    {
+        "label": "n_PREOS",
+        "kind": 5,
+        "importPath": "core.physics.peng_robinson_isothermal_moles",
+        "description": "core.physics.peng_robinson_isothermal_moles",
+        "peekOfCode": "n_PREOS = 61.6051、Numeric = 9。理想气体在该工况下就要 440 mol，\n本实现算出的值见自检输出。判断为**指示器里保存的陈旧默认值**\n（前面几个 VI 的前面板也有同样情况），不是算法差异。见 Q4。\n\"\"\"\nfrom __future__ import annotations\nimport math\nfrom typing import NamedTuple\ntry:  # 作为包导入\n    from .calculate_pressure import (\n        GasConstants,",
+        "detail": "core.physics.peng_robinson_isothermal_moles",
+        "documentation": {}
+    },
+    {
+        "label": "OPEN_QUESTIONS",
+        "kind": 5,
+        "importPath": "core.physics.peng_robinson_isothermal_moles",
+        "description": "core.physics.peng_robinson_isothermal_moles",
+        "peekOfCode": "OPEN_QUESTIONS = \"\"\"\nQ1 外层 Case 的 **True 分支**（Total gas volume == 0）截图未提供。\n   本实现按 n = 0 处理。请确认——如果它返回的是别的东西（NaN？报错？），\n   要改。\nQ2 收敛判据是 ``|Δn| < 1e-10 · n_new``，注意是**乘以 n_new 而不是 n_old**，\n   而且没取绝对值。若迭代过程中 n 变成负数，右边就是负数，判据永远不成立，\n   只能靠 i>10 退出。实际工况下 n 恒为正，但新版应该加保护。\nQ3 迭代上限是 ``i > 10``，即最多 12 次。撞上限时原 VI **静默返回**，\n   界面上看不出没收敛。新版建议显式报警（本实现返回 converged 标志）。\nQ4 前面板快照：P_0=1 MPa, V=1 m³, T=273.15 K 对应 n_PREOS=61.6051, Numeric=9。",
+        "detail": "core.physics.peng_robinson_isothermal_moles",
+        "documentation": {}
+    },
+    {
+        "label": "sea_temperature",
+        "kind": 2,
+        "importPath": "core.physics.sea_temperature",
+        "description": "core.physics.sea_temperature",
+        "peekOfCode": "def sea_temperature(depth_m: float, temperature_surface_c: float) -> float:\n    \"\"\"``Sea temperature.vi`` 的 Python 等价实现。\n    Parameters\n    ----------\n    depth_m\n        深度 [m]，向下为正；负值表示水面以上。\n    temperature_surface_c\n        水面温度 [°C]。\n    Returns\n    -------",
+        "detail": "core.physics.sea_temperature",
+        "documentation": {}
+    },
+    {
+        "label": "profile",
+        "kind": 2,
+        "importPath": "core.physics.sea_temperature",
+        "description": "core.physics.sea_temperature",
+        "peekOfCode": "def profile(\n    temperature_surface_c: float,\n    depth_from: float = 0.0,\n    depth_to: float = 1500.0,\n    step: float = 10.0,\n) -> list[tuple[float, float]]:\n    \"\"\"生成 [(深度, 温度), ...] 剖面，方便新版画图。原 VI 没有这个功能。\"\"\"\n    out: list[tuple[float, float]] = []\n    d = depth_from\n    n = int(round((depth_to - depth_from) / step))",
+        "detail": "core.physics.sea_temperature",
+        "documentation": {}
+    },
+    {
+        "label": "框图",
+        "kind": 5,
+        "importPath": "core.physics.sea_temperature",
+        "description": "core.physics.sea_temperature",
+        "peekOfCode": "框图 = 一个 Formula Node + 一个 ``Less Than 0?`` + 一个 ``Select``：\n* Formula Node（原文照抄）::\n      float64 f_d;\n      f_d=1+exp(-0.016*Depth+1.244);\n      T_Depth=-0.338+((T_S+0.338)*f_d)/((T_S+0.338)*1.485*10**(-4)*Depth+f_d);\n* ``Select``：``t`` = T_S，``s`` = (Depth < 0)，``f`` = T_Depth\n  → **深度为负（水面以上）时直接返回水面温度**，否则返回公式值。\n⚠️ 连线陷阱\n-----------\n框图最上面那根横向橙线**不是 Depth**，而是 ``Temperature surface`` 从画面",
+        "detail": "core.physics.sea_temperature",
+        "documentation": {}
+    },
+    {
+        "label": "OPEN_QUESTIONS",
+        "kind": 5,
+        "importPath": "core.physics.sea_temperature",
+        "description": "core.physics.sea_temperature",
+        "peekOfCode": "OPEN_QUESTIONS = \"\"\"\nQ1 公式里的四个系数 (-0.338, -0.016, 1.244, 1.485e-4) 出处是什么？\n   是 Safelink 对某片海域实测数据的拟合，还是某份标准/文献里的剖面？\n   新版最好在界面上注明适用海域与深度范围。\nQ2 主界面的 ``Sea temperature profile`` 是个下拉选择，\"Safelink formula\"\n   只是其中一项。还有哪些选项？（常温剖面 / 用户自定义表 / 从文件读？）\n   请给该控件的完整枚举项和对应的实现 VI。\nQ3 深度为负时本 VI 返回**水面温度**，而主界面另有 ``Air temperature [C]``\n   （截图里是 30 °C，水面 25 °C）。空气段的温度是在调用方处理的吗？\n   请给出调用本 VI 的那段框图，确认在air/splash zone 用的是哪个温度。",
+        "detail": "core.physics.sea_temperature",
+        "documentation": {}
+    },
+    {
+        "label": "EQMode",
+        "kind": 6,
+        "importPath": "core.physics.select_adjustment_mode_xs",
+        "description": "core.physics.select_adjustment_mode_xs",
+        "peekOfCode": "class EQMode(str, Enum):\n    \"\"\"外层 Case 的选择器。观察到 3 个取值。\n    注意 Increase 分支下全是「放气」动作（Release / Pump out），\n    Decrease 分支下全是「补气」动作（Add）——说明 EQ mode 描述的是\n    **平衡冲程**需要变化的方向，不是 SZ 压力的方向。\n    \"\"\"\n    NONE = \"None\"\n    INCREASE = \"Increase\"\n    DECREASE = \"Decrease\"\nclass AdjustmentMode(str, Enum):",
+        "detail": "core.physics.select_adjustment_mode_xs",
+        "documentation": {}
+    },
+    {
+        "label": "AdjustmentMode",
+        "kind": 6,
+        "importPath": "core.physics.select_adjustment_mode_xs",
+        "description": "core.physics.select_adjustment_mode_xs",
+        "peekOfCode": "class AdjustmentMode(str, Enum):\n    \"\"\"``adjustment priorities`` 数组元素 与 ``mode out`` 共用的枚举。\n    ⚠️ 枚举项的**序数顺序**无法从截图确定；LabVIEW 枚举是序数类型，\n    若新版要读旧 TDMS / 旧配置，必须先确认原始顺序。\n    这里按「泄放 → 泵送 → 补气」排列，仅为可读性。\n    \"\"\"\n    NONE = \"None\"\n    # --- 放气（EQ mode = Increase）---\n    RELEASE_TO_ATM = \"Release to atm\"\n    RELEASE_TO_SS = \"Release to SS\"",
+        "detail": "core.physics.select_adjustment_mode_xs",
+        "documentation": {}
+    },
+    {
+        "label": "Pressures",
+        "kind": 6,
+        "importPath": "core.physics.select_adjustment_mode_xs",
+        "description": "core.physics.select_adjustment_mode_xs",
+        "peekOfCode": "class Pressures:\n    \"\"\"对应 LabVIEW 的 ``pressures`` 簇，成员顺序与原簇一致。单位 Pa（绝对）。\"\"\"\n    P_SZ: float\n    P_atm: float\n    P_HP: float\n    P_LP: float\n    P_SS: float\n#: 向大气泄放所需的最小压差余量 [Pa]。框图常量 200000 = 2 bar。\nATM_RELEASE_MARGIN_PA: float = 200_000.0\n#: SS 容器最高工作压力 [Pa]。框图常量 30000000 = 300 bar。",
+        "detail": "core.physics.select_adjustment_mode_xs",
+        "documentation": {}
+    },
+    {
+        "label": "is_feasible",
+        "kind": 2,
+        "importPath": "core.physics.select_adjustment_mode_xs",
+        "description": "core.physics.select_adjustment_mode_xs",
+        "peekOfCode": "def is_feasible(\n    eq_mode: EQMode,\n    action: AdjustmentMode,\n    pressures: Pressures,\n    retrieve: bool = False,\n) -> bool:\n    \"\"\"单个动作在当前压力状态下是否可行（= 原 VI 内层 Case 的输出布尔）。\n    表里没有的 (eq_mode, action) 组合落到 LabVIEW 的 Default 分支。\n    该分支的布尔输出隧道未接线且设为 \"Use Default If Unwired\"，\n    布尔默认值 = False。",
+        "detail": "core.physics.select_adjustment_mode_xs",
+        "documentation": {}
+    },
+    {
+        "label": "select_adjustment_mode",
+        "kind": 2,
+        "importPath": "core.physics.select_adjustment_mode_xs",
+        "description": "core.physics.select_adjustment_mode_xs",
+        "peekOfCode": "def select_adjustment_mode(\n    eq_mode: EQMode,\n    adjustment_priorities: Sequence[AdjustmentMode],\n    pressures: Pressures,\n    retrieve: bool = False,\n) -> AdjustmentMode:\n    \"\"\"``select adjustment mode XS.vi`` 的 Python 等价实现。\n    Parameters\n    ----------\n    eq_mode",
+        "detail": "core.physics.select_adjustment_mode_xs",
+        "documentation": {}
+    },
+    {
+        "label": "explain",
+        "kind": 2,
+        "importPath": "core.physics.select_adjustment_mode_xs",
+        "description": "core.physics.select_adjustment_mode_xs",
+        "peekOfCode": "def explain(\n    eq_mode: EQMode,\n    adjustment_priorities: Sequence[AdjustmentMode],\n    pressures: Pressures,\n    retrieve: bool = False,\n) -> list[tuple[AdjustmentMode, bool, bool]]:\n    \"\"\"调试辅助：返回 [(动作, 是否可行, 是否被选中), ...]。\n    原 VI 没有这个能力。新版 UI 可以用它向用户解释\n    「为什么选了这个动作 / 为什么这一步什么都没做」。\n    \"\"\"",
+        "detail": "core.physics.select_adjustment_mode_xs",
+        "documentation": {}
+    },
+    {
+        "label": "_Rule",
+        "kind": 5,
+        "importPath": "core.physics.select_adjustment_mode_xs",
+        "description": "core.physics.select_adjustment_mode_xs",
+        "peekOfCode": "_Rule = Callable[[Pressures, bool], bool]\n#: (EQ mode, 动作) -> 判据。表中没有的组合 = LabVIEW 的 Default 分支 = False。\n#: 判据的写法刻意贴近原框图的节点结构（例如 atm 用减法而不是移项），\n#: 以便浮点舍入行为与原程序一致。\n_FEASIBILITY: dict[tuple[EQMode, AdjustmentMode], _Rule] = {\n    # ---- EQ mode = Increase：把气从 SZ 放掉 -------------------------------\n    # 原图：Subtract(P_SZ, 200000) -> Less?(P_atm, 差值)\n    (EQMode.INCREASE, AdjustmentMode.RELEASE_TO_ATM):\n        lambda p, ret: p.P_atm < p.P_SZ - ATM_RELEASE_MARGIN_PA,\n    (EQMode.INCREASE, AdjustmentMode.RELEASE_TO_SS):",
+        "detail": "core.physics.select_adjustment_mode_xs",
+        "documentation": {}
+    },
+    {
+        "label": "OPEN_QUESTIONS",
+        "kind": 5,
+        "importPath": "core.physics.select_adjustment_mode_xs",
+        "description": "core.physics.select_adjustment_mode_xs",
+        "peekOfCode": "OPEN_QUESTIONS = \"\"\"\n[已解答] Pump 分支里比较节点后串的空心 \"Λ\" 节点 = Logic AND（Safelink 确认）。\n         该节点只有一根输入线，等效于直通，不取反 → 判据方向按现状正确。\n[已解答] Increase 6 个分支 / Decrease 4 个分支的不对称是原程序的真实设计，\n         没有遗漏的分支。\nQ1 AdjustmentMode 枚举项的原始**序数顺序**是什么？\n   截图只能看到当前取值文字，看不到 enum 的完整项列表和排序。\n   （目前已确认存在的项至少 11 个，但前面板优先级列表只有 10 行。）\nQ2 \"Add from HP ret\" 与 \"Add from HP\" 的区别只有 retrieve 标志吗？\n   前面板还有个 \"Add from HP retrieval depth [m]\"（默认 Inf），",
+        "detail": "core.physics.select_adjustment_mode_xs",
+        "documentation": {}
+    },
+    {
+        "label": "CaseError",
+        "kind": 6,
+        "importPath": "core.cases",
+        "description": "core.cases",
+        "peekOfCode": "class CaseError(RuntimeError):\n    pass\ndef valid_owner(owner: str) -> bool:\n    return bool(OWNER_RE.fullmatch((owner or \"\").lower()))\ndef new_id() -> str:\n    \"\"\"Time-ordered id: ms since epoch in base36 + 6 random chars. Sorts by\n    creation, collides with nobody, and is not derived from the name.\"\"\"\n    ms, out = int(time.time() * 1000), \"\"\n    while ms:\n        ms, r = divmod(ms, 36)",
+        "detail": "core.cases",
+        "documentation": {}
+    },
+    {
+        "label": "valid_owner",
+        "kind": 2,
+        "importPath": "core.cases",
+        "description": "core.cases",
+        "peekOfCode": "def valid_owner(owner: str) -> bool:\n    return bool(OWNER_RE.fullmatch((owner or \"\").lower()))\ndef new_id() -> str:\n    \"\"\"Time-ordered id: ms since epoch in base36 + 6 random chars. Sorts by\n    creation, collides with nobody, and is not derived from the name.\"\"\"\n    ms, out = int(time.time() * 1000), \"\"\n    while ms:\n        ms, r = divmod(ms, 36)\n        out = \"0123456789abcdefghijklmnopqrstuvwxyz\"[r] + out\n    return out + secrets.token_hex(3)",
+        "detail": "core.cases",
+        "documentation": {}
+    },
+    {
+        "label": "new_id",
+        "kind": 2,
+        "importPath": "core.cases",
+        "description": "core.cases",
+        "peekOfCode": "def new_id() -> str:\n    \"\"\"Time-ordered id: ms since epoch in base36 + 6 random chars. Sorts by\n    creation, collides with nobody, and is not derived from the name.\"\"\"\n    ms, out = int(time.time() * 1000), \"\"\n    while ms:\n        ms, r = divmod(ms, 36)\n        out = \"0123456789abcdefghijklmnopqrstuvwxyz\"[r] + out\n    return out + secrets.token_hex(3)\ndef _dir(owner: str, root: Path | None = None) -> Path:\n    if not valid_owner(owner):",
+        "detail": "core.cases",
+        "documentation": {}
+    },
+    {
+        "label": "save_case",
+        "kind": 2,
+        "importPath": "core.cases",
+        "description": "core.cases",
+        "peekOfCode": "def save_case(owner: str, name: str, inputs: Dict, case_id: str | None = None,\n              root: Path | None = None) -> Dict:\n    \"\"\"Create, or overwrite when case_id is given (the owner's own file).\"\"\"\n    cid = case_id or new_id()\n    path = _file(owner, cid, root)\n    now = datetime.now(timezone.utc).isoformat(timespec=\"seconds\")\n    prev = {}\n    if path.exists():\n        try:\n            prev = json.loads(path.read_text(encoding=\"utf-8\"))",
+        "detail": "core.cases",
+        "documentation": {}
+    },
+    {
+        "label": "list_cases",
+        "kind": 2,
+        "importPath": "core.cases",
+        "description": "core.cases",
+        "peekOfCode": "def list_cases(owner: str, root: Path | None = None) -> List[Dict]:\n    \"\"\"Newest first. Unreadable files are skipped, not fatal.\"\"\"\n    d = _dir(owner, root)\n    if not d.exists():\n        return []\n    out = []\n    for f in d.glob(\"*.json\"):\n        try:\n            rec = json.loads(f.read_text(encoding=\"utf-8\"))\n        except (json.JSONDecodeError, OSError):",
+        "detail": "core.cases",
+        "documentation": {}
+    },
+    {
+        "label": "load_case",
+        "kind": 2,
+        "importPath": "core.cases",
+        "description": "core.cases",
+        "peekOfCode": "def load_case(owner: str, case_id: str, root: Path | None = None) -> Dict:\n    path = _file(owner, case_id, root)\n    if not path.exists():\n        raise CaseError(f\"no case {case_id!r}\")\n    return json.loads(path.read_text(encoding=\"utf-8\"))\ndef delete_case(owner: str, case_id: str, root: Path | None = None) -> None:\n    path = _file(owner, case_id, root)\n    if not path.exists():\n        raise CaseError(f\"no case {case_id!r}\")\n    path.unlink()",
+        "detail": "core.cases",
+        "documentation": {}
+    },
+    {
+        "label": "delete_case",
+        "kind": 2,
+        "importPath": "core.cases",
+        "description": "core.cases",
+        "peekOfCode": "def delete_case(owner: str, case_id: str, root: Path | None = None) -> None:\n    path = _file(owner, case_id, root)\n    if not path.exists():\n        raise CaseError(f\"no case {case_id!r}\")\n    path.unlink()",
+        "detail": "core.cases",
+        "documentation": {}
+    },
+    {
+        "label": "CASES_DIR",
+        "kind": 5,
+        "importPath": "core.cases",
+        "description": "core.cases",
+        "peekOfCode": "CASES_DIR = Path(__file__).resolve().parent.parent / \"data\" / \"cases\"\n#: owner arrives in a request header, so it is a path segment from outside.\nOWNER_RE = re.compile(r\"^[a-z0-9][a-z0-9._-]{0,63}$\")\nID_RE = re.compile(r\"^[0-9a-z]{10,32}$\")\nclass CaseError(RuntimeError):\n    pass\ndef valid_owner(owner: str) -> bool:\n    return bool(OWNER_RE.fullmatch((owner or \"\").lower()))\ndef new_id() -> str:\n    \"\"\"Time-ordered id: ms since epoch in base36 + 6 random chars. Sorts by",
+        "detail": "core.cases",
+        "documentation": {}
+    },
+    {
+        "label": "OWNER_RE",
+        "kind": 5,
+        "importPath": "core.cases",
+        "description": "core.cases",
+        "peekOfCode": "OWNER_RE = re.compile(r\"^[a-z0-9][a-z0-9._-]{0,63}$\")\nID_RE = re.compile(r\"^[0-9a-z]{10,32}$\")\nclass CaseError(RuntimeError):\n    pass\ndef valid_owner(owner: str) -> bool:\n    return bool(OWNER_RE.fullmatch((owner or \"\").lower()))\ndef new_id() -> str:\n    \"\"\"Time-ordered id: ms since epoch in base36 + 6 random chars. Sorts by\n    creation, collides with nobody, and is not derived from the name.\"\"\"\n    ms, out = int(time.time() * 1000), \"\"",
+        "detail": "core.cases",
+        "documentation": {}
+    },
+    {
+        "label": "ID_RE",
+        "kind": 5,
+        "importPath": "core.cases",
+        "description": "core.cases",
+        "peekOfCode": "ID_RE = re.compile(r\"^[0-9a-z]{10,32}$\")\nclass CaseError(RuntimeError):\n    pass\ndef valid_owner(owner: str) -> bool:\n    return bool(OWNER_RE.fullmatch((owner or \"\").lower()))\ndef new_id() -> str:\n    \"\"\"Time-ordered id: ms since epoch in base36 + 6 random chars. Sorts by\n    creation, collides with nobody, and is not derived from the name.\"\"\"\n    ms, out = int(time.time() * 1000), \"\"\n    while ms:",
+        "detail": "core.cases",
+        "documentation": {}
+    },
+    {
+        "label": "input_hash",
+        "kind": 2,
+        "importPath": "core.hashing",
+        "description": "core.hashing",
+        "peekOfCode": "def input_hash(payload: Any) -> str:\n    canon = json.dumps(payload, sort_keys=True, separators=(\",\", \":\"),\n                       ensure_ascii=False, default=str)\n    return hashlib.sha256(canon.encode(\"utf-8\")).hexdigest()[:16]",
+        "detail": "core.hashing",
+        "documentation": {}
+    },
+    {
+        "label": "ParsedName",
+        "kind": 6,
+        "importPath": "core.naming",
+        "description": "core.naming",
+        "peekOfCode": "class ParsedName:\n    \"\"\"从设备名里解析出来的字段。解析失败时全部为 ``None``。\"\"\"\n    series: Optional[str] = None\n    stroke_m: Optional[float] = None      # 名字里是 mm，这里换成 m\n    comp_t: Optional[float] = None        # 补偿能力 [t]\n    swl_t: Optional[float] = None         # SWL [t]\n    serial: Optional[str] = None\n    @property\n    def ok(self) -> bool:\n        return self.series is not None",
+        "detail": "core.naming",
+        "documentation": {}
+    },
+    {
+        "label": "parse_unit_name",
+        "kind": 2,
+        "importPath": "core.naming",
+        "description": "core.naming",
+        "peekOfCode": "def parse_unit_name(name: str) -> ParsedName:\n    \"\"\"解析设备名。不符合规则的返回空 :class:`ParsedName`（不抛异常）。\"\"\"\n    m = NAME_RE.match((name or \"\").strip())\n    if not m:\n        return ParsedName()\n    return ParsedName(\n        series=m.group(1),\n        stroke_m=int(m.group(2)) / 1000.0,\n        comp_t=float(m.group(3)),\n        swl_t=float(m.group(4)) if m.group(4) else None,",
+        "detail": "core.naming",
+        "documentation": {}
+    },
+    {
+        "label": "variant_name",
+        "kind": 2,
+        "importPath": "core.naming",
+        "description": "core.naming",
+        "peekOfCode": "def variant_name(base: str, existing: Iterable[str]) -> str:\n    \"\"\"给 ``base`` 生成一个还没被占用的派生名 ``\"<stem> v2\"``、``\" v3\"`` …\n    ``base`` 自己已经是 ``\" v2\"`` 结尾时，先剥掉再往上找，\n    这样 ``A v2`` 的派生是 ``A v3`` 而不是 ``A v2 v2``。\n    \"\"\"\n    stem = _VARIANT_RE.sub(\"\", (base or \"\").strip())\n    taken = set(existing)\n    n = 2\n    while f\"{stem} v{n}\" in taken:\n        n += 1",
+        "detail": "core.naming",
+        "documentation": {}
+    },
+    {
+        "label": "unique_name",
+        "kind": 2,
+        "importPath": "core.naming",
+        "description": "core.naming",
+        "peekOfCode": "def unique_name(base: str, existing: Iterable[str]) -> str:\n    \"\"\"自定义设备重名时加 ``(2)``、``(3)`` … 直到不冲突。\"\"\"\n    taken = set(existing)\n    if base not in taken:\n        return base\n    n = 2\n    while f\"{base} ({n})\" in taken:\n        n += 1\n    return f\"{base} ({n})\"",
+        "detail": "core.naming",
+        "documentation": {}
+    },
+    {
+        "label": "NAME_RE",
+        "kind": 5,
+        "importPath": "core.naming",
+        "description": "core.naming",
+        "peekOfCode": "NAME_RE = re.compile(\n    r\"^([A-Z]+\\d*)-(\\d{3,4})\\s+(\\d+)(?:/(\\d+))?(?:-(\\d+(?:…\\d+)?))?\"\n)\n_VARIANT_RE = re.compile(r\"\\sv(\\d+)$\")\n@dataclass(frozen=True)\nclass ParsedName:\n    \"\"\"从设备名里解析出来的字段。解析失败时全部为 ``None``。\"\"\"\n    series: Optional[str] = None\n    stroke_m: Optional[float] = None      # 名字里是 mm，这里换成 m\n    comp_t: Optional[float] = None        # 补偿能力 [t]",
+        "detail": "core.naming",
+        "documentation": {}
+    },
+    {
+        "label": "_VARIANT_RE",
+        "kind": 5,
+        "importPath": "core.naming",
+        "description": "core.naming",
+        "peekOfCode": "_VARIANT_RE = re.compile(r\"\\sv(\\d+)$\")\n@dataclass(frozen=True)\nclass ParsedName:\n    \"\"\"从设备名里解析出来的字段。解析失败时全部为 ``None``。\"\"\"\n    series: Optional[str] = None\n    stroke_m: Optional[float] = None      # 名字里是 mm，这里换成 m\n    comp_t: Optional[float] = None        # 补偿能力 [t]\n    swl_t: Optional[float] = None         # SWL [t]\n    serial: Optional[str] = None\n    @property",
+        "detail": "core.naming",
+        "documentation": {}
+    },
+    {
+        "label": "RegistryError",
+        "kind": 6,
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "peekOfCode": "class RegistryError(RuntimeError):\n    \"\"\"单位库操作失败（重名、找不到设备、文件损坏等）。\"\"\"\n# ---------------------------------------------------------------- 读 / 写\ndef load_units(path: os.PathLike | str = DEFAULT_PATH) -> List[PHCUnit]:\n    \"\"\"读单位库。文件不存在返回空列表（首次运行）。\"\"\"\n    p = Path(path)\n    if not p.exists():\n        return []\n    try:\n        raw = json.loads(p.read_text(encoding=\"utf-8\"))",
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "load_units",
+        "kind": 2,
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "peekOfCode": "def load_units(path: os.PathLike | str = DEFAULT_PATH) -> List[PHCUnit]:\n    \"\"\"读单位库。文件不存在返回空列表（首次运行）。\"\"\"\n    p = Path(path)\n    if not p.exists():\n        return []\n    try:\n        raw = json.loads(p.read_text(encoding=\"utf-8\"))\n    except json.JSONDecodeError as exc:\n        raise RegistryError(f\"{p} 不是合法 JSON：{exc}\") from exc\n    if raw.get(\"schema_version\", 1) > SCHEMA_VERSION:",
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "save_units",
+        "kind": 2,
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "peekOfCode": "def save_units(units: List[PHCUnit], path: os.PathLike | str = DEFAULT_PATH,\n               backup: bool = True) -> None:\n    \"\"\"原子写回单位库；``backup`` 时保留一份 ``.bak``。\"\"\"\n    p = Path(path)\n    p.parent.mkdir(parents=True, exist_ok=True)\n    if backup and p.exists():\n        shutil.copy2(p, p.with_suffix(\".json.bak\"))\n    payload = {\n        \"schema_version\": SCHEMA_VERSION,\n        \"updated_utc\": datetime.now(timezone.utc).isoformat(timespec=\"seconds\"),",
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "active_units",
+        "kind": 2,
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "peekOfCode": "def active_units(units: List[PHCUnit]) -> List[PHCUnit]:\n    \"\"\"只返回没被删除的设备（``state > 0``）。\"\"\"\n    return [u for u in units if u.active]\ndef find(units: List[PHCUnit], name: str) -> Optional[PHCUnit]:\n    for u in units:\n        if u.name == name:\n            return u\n    return None\ndef index_of(units: List[PHCUnit], name: str) -> int:\n    for i, u in enumerate(units):",
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "find",
+        "kind": 2,
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "peekOfCode": "def find(units: List[PHCUnit], name: str) -> Optional[PHCUnit]:\n    for u in units:\n        if u.name == name:\n            return u\n    return None\ndef index_of(units: List[PHCUnit], name: str) -> int:\n    for i, u in enumerate(units):\n        if u.name == name:\n            return i\n    raise RegistryError(f\"单位库里没有 {name!r}\")",
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "index_of",
+        "kind": 2,
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "peekOfCode": "def index_of(units: List[PHCUnit], name: str) -> int:\n    for i, u in enumerate(units):\n        if u.name == name:\n            return i\n    raise RegistryError(f\"单位库里没有 {name!r}\")\ndef search(units: List[PHCUnit], query: str) -> List[PHCUnit]:\n    \"\"\"名字模糊过滤，不区分大小写。空 query 返回全部。\"\"\"\n    q = (query or \"\").strip().lower()\n    if not q:\n        return list(units)",
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "peekOfCode": "def search(units: List[PHCUnit], query: str) -> List[PHCUnit]:\n    \"\"\"名字模糊过滤，不区分大小写。空 query 返回全部。\"\"\"\n    q = (query or \"\").strip().lower()\n    if not q:\n        return list(units)\n    return [u for u in units if q in u.name.lower()]\n# ---------------------------------------------------------------- 增 / 改 / 删\ndef add_unit(units: List[PHCUnit], unit: PHCUnit) -> PHCUnit:\n    \"\"\"加一台新设备（New）。重名自动加 ``(2)`` 后缀。\"\"\"\n    unit.name = unique_name(unit.name.strip(), (u.name for u in units))",
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "add_unit",
+        "kind": 2,
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "peekOfCode": "def add_unit(units: List[PHCUnit], unit: PHCUnit) -> PHCUnit:\n    \"\"\"加一台新设备（New）。重名自动加 ``(2)`` 后缀。\"\"\"\n    unit.name = unique_name(unit.name.strip(), (u.name for u in units))\n    unit.origin = unit.origin or ORIGIN_CUSTOM\n    unit.state = 1\n    units.append(unit)\n    return unit\ndef save_as_variant(units: List[PHCUnit], base_name: str,\n                    changes: Dict[str, float],\n                    new_name: str | None = None) -> PHCUnit:",
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "save_as_variant",
+        "kind": 2,
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "peekOfCode": "def save_as_variant(units: List[PHCUnit], base_name: str,\n                    changes: Dict[str, float],\n                    new_name: str | None = None) -> PHCUnit:\n    \"\"\"Edit → 存成新设备。**从不覆盖原设备。**\n    这是用户明确要求的行为：\"现有的 unit 可以通过 Edit 来修改一部分参数\n    并保存为新设备\"。目录设备被别的 case 引用着，就地改会让历史结果对不上。\n    \"\"\"\n    base = find(units, base_name)\n    if base is None:\n        raise RegistryError(f\"单位库里没有 {base_name!r}\")",
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "update_in_place",
+        "kind": 2,
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "peekOfCode": "def update_in_place(units: List[PHCUnit], name: str,\n                    changes: Dict[str, float]) -> PHCUnit:\n    \"\"\"就地修改。只允许改用户自己建的设备（``custom`` / ``variant``）。\"\"\"\n    u = find(units, name)\n    if u is None:\n        raise RegistryError(f\"单位库里没有 {name!r}\")\n    if u.origin == ORIGIN_CATALOGUE:\n        raise RegistryError(\n            f\"{name} 是出厂目录设备，不能就地修改；请用 Edit 存成派生型号。\"\n        )",
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "delete_unit",
+        "kind": 2,
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "peekOfCode": "def delete_unit(units: List[PHCUnit], name: str) -> PHCUnit:\n    \"\"\"软删除：``state = 0``。条目留在文件里，历史 case 仍能解析。\"\"\"\n    u = find(units, name)\n    if u is None:\n        raise RegistryError(f\"单位库里没有 {name!r}\")\n    if len(active_units(units)) <= 1:\n        raise RegistryError(\"至少要保留一台有效设备。\")\n    u.state = 0\n    return u\ndef restore_unit(units: List[PHCUnit], name: str) -> PHCUnit:",
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "restore_unit",
+        "kind": 2,
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "peekOfCode": "def restore_unit(units: List[PHCUnit], name: str) -> PHCUnit:\n    u = find(units, name)\n    if u is None:\n        raise RegistryError(f\"单位库里没有 {name!r}\")\n    u.state = 1\n    return u",
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "SCHEMA_VERSION",
+        "kind": 5,
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "peekOfCode": "SCHEMA_VERSION = 1\nDEFAULT_PATH = Path(__file__).resolve().parent.parent / \"data\" / \"units.json\"\nclass RegistryError(RuntimeError):\n    \"\"\"单位库操作失败（重名、找不到设备、文件损坏等）。\"\"\"\n# ---------------------------------------------------------------- 读 / 写\ndef load_units(path: os.PathLike | str = DEFAULT_PATH) -> List[PHCUnit]:\n    \"\"\"读单位库。文件不存在返回空列表（首次运行）。\"\"\"\n    p = Path(path)\n    if not p.exists():\n        return []",
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_PATH",
+        "kind": 5,
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "peekOfCode": "DEFAULT_PATH = Path(__file__).resolve().parent.parent / \"data\" / \"units.json\"\nclass RegistryError(RuntimeError):\n    \"\"\"单位库操作失败（重名、找不到设备、文件损坏等）。\"\"\"\n# ---------------------------------------------------------------- 读 / 写\ndef load_units(path: os.PathLike | str = DEFAULT_PATH) -> List[PHCUnit]:\n    \"\"\"读单位库。文件不存在返回空列表（首次运行）。\"\"\"\n    p = Path(path)\n    if not p.exists():\n        return []\n    try:",
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "PHCUnit",
+        "kind": 6,
+        "importPath": "core.schema",
+        "description": "core.schema",
+        "peekOfCode": "class PHCUnit:\n    \"\"\"一台 PHC 补偿器。对应旧 TDMS 里的一个 Group。\"\"\"\n    name: str\n    m_PHC: float = 0.0\n    m_rod: float = 0.0\n    V_PHC: float = 0.0\n    V_rod: float = 0.0\n    d_rod: float = 0.0\n    d_piston: float = 0.0\n    V_SZ: float = 0.0",
+        "detail": "core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "LiftPoint",
+        "kind": 6,
+        "importPath": "core.schema",
+        "description": "core.schema",
+        "peekOfCode": "class LiftPoint:\n    \"\"\"Lifting sequence 里的一个设计点：\n    \"到这个水深时，平衡行程应该是这么多，设备处于这个模式\"。\"\"\"\n    enabled: bool = True\n    depth_m: float = 0.0\n    stroke_m: float = 0.0\n    mode: str = \"SZ\"        # SZ | SS\n@dataclass\nclass CaseInputs:\n    \"\"\"一次仿真的全部用户输入。存/取 case 文件时序列化的就是这个。\"\"\"",
+        "detail": "core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "CaseInputs",
+        "kind": 6,
+        "importPath": "core.schema",
+        "description": "core.schema",
+        "peekOfCode": "class CaseInputs:\n    \"\"\"一次仿真的全部用户输入。存/取 case 文件时序列化的就是这个。\"\"\"\n    unit_name: str = \"\"\n    # --- Load & geometry ---\n    air_weight_kg: float = 255_000.0\n    wet_weight_kg: float = 202_800.0\n    payload_height_m: float = 7.0\n    rigging_height_m: float = 36.0\n    start_depth_m: float = -50.0\n    final_depth_m: float = 1380.0",
+        "detail": "core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ORIGIN_CATALOGUE",
+        "kind": 5,
+        "importPath": "core.schema",
+        "description": "core.schema",
+        "peekOfCode": "ORIGIN_CATALOGUE = \"catalogue\"   # 来自出厂目录，禁止就地覆盖\nORIGIN_VARIANT = \"variant\"       # 由目录设备 Edit 派生\nORIGIN_CUSTOM = \"custom\"         # 用户 New 出来的\n@dataclass\nclass PHCUnit:\n    \"\"\"一台 PHC 补偿器。对应旧 TDMS 里的一个 Group。\"\"\"\n    name: str\n    m_PHC: float = 0.0\n    m_rod: float = 0.0\n    V_PHC: float = 0.0",
+        "detail": "core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ORIGIN_VARIANT",
+        "kind": 5,
+        "importPath": "core.schema",
+        "description": "core.schema",
+        "peekOfCode": "ORIGIN_VARIANT = \"variant\"       # 由目录设备 Edit 派生\nORIGIN_CUSTOM = \"custom\"         # 用户 New 出来的\n@dataclass\nclass PHCUnit:\n    \"\"\"一台 PHC 补偿器。对应旧 TDMS 里的一个 Group。\"\"\"\n    name: str\n    m_PHC: float = 0.0\n    m_rod: float = 0.0\n    V_PHC: float = 0.0\n    V_rod: float = 0.0",
+        "detail": "core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ORIGIN_CUSTOM",
+        "kind": 5,
+        "importPath": "core.schema",
+        "description": "core.schema",
+        "peekOfCode": "ORIGIN_CUSTOM = \"custom\"         # 用户 New 出来的\n@dataclass\nclass PHCUnit:\n    \"\"\"一台 PHC 补偿器。对应旧 TDMS 里的一个 Group。\"\"\"\n    name: str\n    m_PHC: float = 0.0\n    m_rod: float = 0.0\n    V_PHC: float = 0.0\n    V_rod: float = 0.0\n    d_rod: float = 0.0",
+        "detail": "core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "load_status",
+        "kind": 2,
+        "importPath": "core.status",
+        "description": "core.status",
+        "peekOfCode": "def load_status(path: Path | str = DEFAULT_PATH) -> Dict:\n    \"\"\"Missing or unreadable file is not an error - every unit is 'unknown'.\n    The snapshot timestamp is always returned so the UI can show its age.\"\"\"\n    p = Path(path)\n    if not p.exists():\n        return {\"snapshot_at\": None, \"units\": {}}\n    try:\n        raw = json.loads(p.read_text(encoding=\"utf-8\"))\n    except (json.JSONDecodeError, OSError):\n        return {\"snapshot_at\": None, \"units\": {}}",
+        "detail": "core.status",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_PATH",
+        "kind": 5,
+        "importPath": "core.status",
+        "description": "core.status",
+        "peekOfCode": "DEFAULT_PATH = Path(__file__).resolve().parent.parent / \"data\" / \"unit_status.json\"\ndef load_status(path: Path | str = DEFAULT_PATH) -> Dict:\n    \"\"\"Missing or unreadable file is not an error - every unit is 'unknown'.\n    The snapshot timestamp is always returned so the UI can show its age.\"\"\"\n    p = Path(path)\n    if not p.exists():\n        return {\"snapshot_at\": None, \"units\": {}}\n    try:\n        raw = json.loads(p.read_text(encoding=\"utf-8\"))\n    except (json.JSONDecodeError, OSError):",
+        "detail": "core.status",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "jobs.asana_sync",
+        "description": "jobs.asana_sync",
+        "peekOfCode": "def main() -> None:\n    payload = {\n        \"snapshot_at\": datetime.now(timezone.utc).isoformat(timespec=\"seconds\"),\n        \"source\": \"stub\",\n        \"units\": {u.name: {\"status\": \"unknown\", \"location\": None, \"job\": None}\n                  for u in load_units()},\n    }\n    OUT.parent.mkdir(parents=True, exist_ok=True)\n    tmp = OUT.with_suffix(\".json.tmp\")\n    tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=2),",
+        "detail": "jobs.asana_sync",
+        "documentation": {}
+    },
+    {
+        "label": "OUT",
+        "kind": 5,
+        "importPath": "jobs.asana_sync",
+        "description": "jobs.asana_sync",
+        "peekOfCode": "OUT = Path(__file__).resolve().parent.parent / \"data\" / \"unit_status.json\"\ndef main() -> None:\n    payload = {\n        \"snapshot_at\": datetime.now(timezone.utc).isoformat(timespec=\"seconds\"),\n        \"source\": \"stub\",\n        \"units\": {u.name: {\"status\": \"unknown\", \"location\": None, \"job\": None}\n                  for u in load_units()},\n    }\n    OUT.parent.mkdir(parents=True, exist_ok=True)\n    tmp = OUT.with_suffix(\".json.tmp\")",
+        "detail": "jobs.asana_sync",
         "documentation": {}
     },
     {
