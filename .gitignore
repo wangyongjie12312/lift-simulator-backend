@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+logs/
+data/cases/
+data/*.json.bak
+data/*.json.tmp
+.env
+python/
