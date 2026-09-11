@@ -1,0 +1,1224 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "api.deps",
+        "description": "api.deps",
+        "isExtraImport": true,
+        "detail": "api.deps",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "api.deps",
+        "description": "api.deps",
+        "isExtraImport": true,
+        "detail": "api.deps",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "api.deps",
+        "description": "api.deps",
+        "isExtraImport": true,
+        "detail": "api.deps",
+        "documentation": {}
+    },
+    {
+        "label": "CaseFull",
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "isExtraImport": true,
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CaseMeta",
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "isExtraImport": true,
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CaseWrite",
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "isExtraImport": true,
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SimRequest",
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "isExtraImport": true,
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SimResponse",
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "isExtraImport": true,
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UnitOut",
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "isExtraImport": true,
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UnitWrite",
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "isExtraImport": true,
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "VariantWrite",
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "isExtraImport": true,
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "cases",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "state",
+        "importPath": "api",
+        "description": "api",
+        "isExtraImport": true,
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "state",
+        "importPath": "api",
+        "description": "api",
+        "isExtraImport": true,
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "state",
+        "importPath": "api",
+        "description": "api",
+        "isExtraImport": true,
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "state",
+        "importPath": "api",
+        "description": "api",
+        "isExtraImport": true,
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "input_hash",
+        "importPath": "core.hashing",
+        "description": "core.hashing",
+        "isExtraImport": true,
+        "detail": "core.hashing",
+        "documentation": {}
+    },
+    {
+        "label": "find",
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "isExtraImport": true,
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "RegistryError",
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "isExtraImport": true,
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "active_units",
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "isExtraImport": true,
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "add_unit",
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "isExtraImport": true,
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "delete_unit",
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "isExtraImport": true,
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "find",
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "isExtraImport": true,
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "save_as_variant",
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "isExtraImport": true,
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "RegistryError",
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "isExtraImport": true,
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_PATH",
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "isExtraImport": true,
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "load_units",
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "isExtraImport": true,
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "save_units",
+        "importPath": "core.registry",
+        "description": "core.registry",
+        "isExtraImport": true,
+        "detail": "core.registry",
+        "documentation": {}
+    },
+    {
+        "label": "CaseInputs",
+        "importPath": "core.schema",
+        "description": "core.schema",
+        "isExtraImport": true,
+        "detail": "core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "LiftPoint",
+        "importPath": "core.schema",
+        "description": "core.schema",
+        "isExtraImport": true,
+        "detail": "core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "PERSISTED_FIELDS",
+        "importPath": "core.schema",
+        "description": "core.schema",
+        "isExtraImport": true,
+        "detail": "core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "PHCUnit",
+        "importPath": "core.schema",
+        "description": "core.schema",
+        "isExtraImport": true,
+        "detail": "core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "PHCUnit",
+        "importPath": "core.schema",
+        "description": "core.schema",
+        "isExtraImport": true,
+        "detail": "core.schema",
+        "documentation": {}
+    },
+    {
+        "label": "load_status",
+        "importPath": "core.status",
+        "description": "core.status",
+        "isExtraImport": true,
+        "detail": "core.status",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "valid_owner",
+        "importPath": "core.cases",
+        "description": "core.cases",
+        "isExtraImport": true,
+        "detail": "core.cases",
+        "documentation": {}
+    },
+    {
+        "label": "CaseError",
+        "importPath": "core.cases",
+        "description": "core.cases",
+        "isExtraImport": true,
+        "detail": "core.cases",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "field_validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "get_engine",
+        "importPath": "core.engine",
+        "description": "core.engine",
+        "isExtraImport": true,
+        "detail": "core.engine",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "ui",
+        "description": "ui",
+        "isExtraImport": true,
+        "detail": "ui",
+        "documentation": {}
+    },
+    {
+        "label": "chrome",
+        "importPath": "ui",
+        "description": "ui",
+        "isExtraImport": true,
+        "detail": "ui",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "importPath": "ui",
+        "description": "ui",
+        "isExtraImport": true,
+        "detail": "ui",
+        "documentation": {}
+    },
+    {
+        "label": "dialogs",
+        "importPath": "ui",
+        "description": "ui",
+        "isExtraImport": true,
+        "detail": "ui",
+        "documentation": {}
+    },
+    {
+        "label": "theme",
+        "importPath": "ui",
+        "description": "ui",
+        "isExtraImport": true,
+        "detail": "ui",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "ui",
+        "description": "ui",
+        "isExtraImport": true,
+        "detail": "ui",
+        "documentation": {}
+    },
+    {
+        "label": "list_cases",
+        "kind": 2,
+        "importPath": "api.routers.cases",
+        "description": "api.routers.cases",
+        "peekOfCode": "def list_cases(owner: str = Depends(current_user)) -> List[CaseMeta]:\n    return [CaseMeta(**c) for c in store.list_cases(owner)]\n@router.post(\"/cases\", response_model=CaseMeta, status_code=201)\ndef create_case(body: CaseWrite, owner: str = Depends(current_user)) -> CaseMeta:\n    rec = store.save_case(owner, body.name, body.inputs)\n    rec.pop(\"inputs\", None)\n    return CaseMeta(**rec)\n@router.get(\"/cases/{case_id}\", response_model=CaseFull)\ndef get_case(case_id: str, owner: str = Depends(current_user)) -> CaseFull:\n    return CaseFull(**store.load_case(owner, case_id))",
+        "detail": "api.routers.cases",
+        "documentation": {}
+    },
+    {
+        "label": "create_case",
+        "kind": 2,
+        "importPath": "api.routers.cases",
+        "description": "api.routers.cases",
+        "peekOfCode": "def create_case(body: CaseWrite, owner: str = Depends(current_user)) -> CaseMeta:\n    rec = store.save_case(owner, body.name, body.inputs)\n    rec.pop(\"inputs\", None)\n    return CaseMeta(**rec)\n@router.get(\"/cases/{case_id}\", response_model=CaseFull)\ndef get_case(case_id: str, owner: str = Depends(current_user)) -> CaseFull:\n    return CaseFull(**store.load_case(owner, case_id))\n@router.put(\"/cases/{case_id}\", response_model=CaseMeta)\ndef update_case(case_id: str, body: CaseWrite,\n                owner: str = Depends(current_user)) -> CaseMeta:",
+        "detail": "api.routers.cases",
+        "documentation": {}
+    },
+    {
+        "label": "get_case",
+        "kind": 2,
+        "importPath": "api.routers.cases",
+        "description": "api.routers.cases",
+        "peekOfCode": "def get_case(case_id: str, owner: str = Depends(current_user)) -> CaseFull:\n    return CaseFull(**store.load_case(owner, case_id))\n@router.put(\"/cases/{case_id}\", response_model=CaseMeta)\ndef update_case(case_id: str, body: CaseWrite,\n                owner: str = Depends(current_user)) -> CaseMeta:\n    store.load_case(owner, case_id)          # 404 rather than create-on-PUT\n    rec = store.save_case(owner, body.name, body.inputs, case_id=case_id)\n    rec.pop(\"inputs\", None)\n    return CaseMeta(**rec)\n@router.delete(\"/cases/{case_id}\", status_code=204)",
+        "detail": "api.routers.cases",
+        "documentation": {}
+    },
+    {
+        "label": "update_case",
+        "kind": 2,
+        "importPath": "api.routers.cases",
+        "description": "api.routers.cases",
+        "peekOfCode": "def update_case(case_id: str, body: CaseWrite,\n                owner: str = Depends(current_user)) -> CaseMeta:\n    store.load_case(owner, case_id)          # 404 rather than create-on-PUT\n    rec = store.save_case(owner, body.name, body.inputs, case_id=case_id)\n    rec.pop(\"inputs\", None)\n    return CaseMeta(**rec)\n@router.delete(\"/cases/{case_id}\", status_code=204)\ndef remove_case(case_id: str, owner: str = Depends(current_user)) -> None:\n    store.delete_case(owner, case_id)",
+        "detail": "api.routers.cases",
+        "documentation": {}
+    },
+    {
+        "label": "remove_case",
+        "kind": 2,
+        "importPath": "api.routers.cases",
+        "description": "api.routers.cases",
+        "peekOfCode": "def remove_case(case_id: str, owner: str = Depends(current_user)) -> None:\n    store.delete_case(owner, case_id)",
+        "detail": "api.routers.cases",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.routers.cases",
+        "description": "api.routers.cases",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/cases\", response_model=List[CaseMeta])\ndef list_cases(owner: str = Depends(current_user)) -> List[CaseMeta]:\n    return [CaseMeta(**c) for c in store.list_cases(owner)]\n@router.post(\"/cases\", response_model=CaseMeta, status_code=201)\ndef create_case(body: CaseWrite, owner: str = Depends(current_user)) -> CaseMeta:\n    rec = store.save_case(owner, body.name, body.inputs)\n    rec.pop(\"inputs\", None)\n    return CaseMeta(**rec)\n@router.get(\"/cases/{case_id}\", response_model=CaseFull)",
+        "detail": "api.routers.cases",
+        "documentation": {}
+    },
+    {
+        "label": "health",
+        "kind": 2,
+        "importPath": "api.routers.health",
+        "description": "api.routers.health",
+        "peekOfCode": "def health():\n    \"\"\"Also what the launcher polls before opening the browser - opening it\n    any earlier just shows the person an error page.\"\"\"\n    return {\"ok\": state.boot[\"ready\"], \"engine\": state.engine.version,\n            \"placeholder\": state.engine.placeholder,\n            \"units_loaded\": len(state.units()), \"boot\": dict(state.boot)}",
+        "detail": "api.routers.health",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.routers.health",
+        "description": "api.routers.health",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/health\")\ndef health():\n    \"\"\"Also what the launcher polls before opening the browser - opening it\n    any earlier just shows the person an error page.\"\"\"\n    return {\"ok\": state.boot[\"ready\"], \"engine\": state.engine.version,\n            \"placeholder\": state.engine.placeholder,\n            \"units_loaded\": len(state.units()), \"boot\": dict(state.boot)}",
+        "detail": "api.routers.health",
+        "documentation": {}
+    },
+    {
+        "label": "showcase",
+        "kind": 2,
+        "importPath": "api.routers.public",
+        "description": "api.routers.public",
+        "peekOfCode": "def showcase():\n    return {\"slides\": SHOWCASE}\n@router.get(\"/public/boot\")\ndef boot_state():\n    \"\"\"What the server is doing while the person types their credentials.\n    Real step, real count - the sign-in page renders this verbatim.\"\"\"\n    return dict(state.boot)",
+        "detail": "api.routers.public",
+        "documentation": {}
+    },
+    {
+        "label": "boot_state",
+        "kind": 2,
+        "importPath": "api.routers.public",
+        "description": "api.routers.public",
+        "peekOfCode": "def boot_state():\n    \"\"\"What the server is doing while the person types their credentials.\n    Real step, real count - the sign-in page renders this verbatim.\"\"\"\n    return dict(state.boot)",
+        "detail": "api.routers.public",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.routers.public",
+        "description": "api.routers.public",
+        "peekOfCode": "router = APIRouter()\nSHOWCASE = [\n    {\"image\": \"figures/showcase/phc.jpg\",\n     \"title\": \"Passive heave compensators\",\n     \"body\": \"Gas-spring units that decouple the load from vessel motion.\",\n     \"tags\": [\"In air\", \"Splash zone\", \"Subsea\", \"Landing\"]},\n    {\"image\": \"figures/showcase/ga.png\",\n     \"title\": \"Every unit is documented\",\n     \"body\": \"A dimensioned general arrangement for each unit in the catalogue.\",\n     \"tags\": [\"GA drawing\", \"12 parameters\", \"Serial traceable\"]},",
+        "detail": "api.routers.public",
+        "documentation": {}
+    },
+    {
+        "label": "SHOWCASE",
+        "kind": 5,
+        "importPath": "api.routers.public",
+        "description": "api.routers.public",
+        "peekOfCode": "SHOWCASE = [\n    {\"image\": \"figures/showcase/phc.jpg\",\n     \"title\": \"Passive heave compensators\",\n     \"body\": \"Gas-spring units that decouple the load from vessel motion.\",\n     \"tags\": [\"In air\", \"Splash zone\", \"Subsea\", \"Landing\"]},\n    {\"image\": \"figures/showcase/ga.png\",\n     \"title\": \"Every unit is documented\",\n     \"body\": \"A dimensioned general arrangement for each unit in the catalogue.\",\n     \"tags\": [\"GA drawing\", \"12 parameters\", \"Serial traceable\"]},\n]",
+        "detail": "api.routers.public",
+        "documentation": {}
+    },
+    {
+        "label": "to_case_inputs",
+        "kind": 2,
+        "importPath": "api.routers.simulate",
+        "description": "api.routers.simulate",
+        "peekOfCode": "def to_case_inputs(req: SimRequest) -> CaseInputs:\n    \"\"\"Wire format -> domain object. The only place the two shapes meet.\"\"\"\n    c, s = req.client_inputs, req.safelink_inputs\n    seq = [LiftPoint(p.enabled, p.depth_m, p.stroke_m, p.mode)\n           for p in c.lifting_sequence] or None\n    kw = dict(unit_name=req.unit_name, depth_steps=req.depth_steps,\n              **c.model_dump(exclude={\"lifting_sequence\"}), **s.model_dump())\n    if seq:\n        kw[\"lifting_sequence\"] = seq\n    return CaseInputs(**kw)",
+        "detail": "api.routers.simulate",
+        "documentation": {}
+    },
+    {
+        "label": "simulate",
+        "kind": 2,
+        "importPath": "api.routers.simulate",
+        "description": "api.routers.simulate",
+        "peekOfCode": "def simulate(req: SimRequest, owner: str = Depends(current_user)) -> SimResponse:\n    unit = find(state.units(), req.unit_name)\n    if unit is None or not unit.active:\n        raise HTTPException(404, f\"no active unit named {req.unit_name!r}\")\n    key = input_hash(req.model_dump())\n    hit = state.cache_get(key)\n    if hit is not None:\n        return SimResponse(**hit)\n    res = state.engine.simulate(unit, to_case_inputs(req))\n    out = SimResponse(",
+        "detail": "api.routers.simulate",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.routers.simulate",
+        "description": "api.routers.simulate",
+        "peekOfCode": "router = APIRouter()\ndef to_case_inputs(req: SimRequest) -> CaseInputs:\n    \"\"\"Wire format -> domain object. The only place the two shapes meet.\"\"\"\n    c, s = req.client_inputs, req.safelink_inputs\n    seq = [LiftPoint(p.enabled, p.depth_m, p.stroke_m, p.mode)\n           for p in c.lifting_sequence] or None\n    kw = dict(unit_name=req.unit_name, depth_steps=req.depth_steps,\n              **c.model_dump(exclude={\"lifting_sequence\"}), **s.model_dump())\n    if seq:\n        kw[\"lifting_sequence\"] = seq",
+        "detail": "api.routers.simulate",
+        "documentation": {}
+    },
+    {
+        "label": "to_out",
+        "kind": 2,
+        "importPath": "api.routers.units",
+        "description": "api.routers.units",
+        "peekOfCode": "def to_out(u: PHCUnit) -> UnitOut:\n    p = u.parsed\n    return UnitOut(\n        name=u.name, origin=u.origin, state=u.state, measured=u.measured,\n        applications=u.applications, note=u.note,\n        params={k: getattr(u, k) for k in _KEYS},\n        derived=u.derived(),\n        parsed={\"series\": p.series, \"stroke_m\": _s(p.stroke_m),\n                \"comp_t\": _s(p.comp_t), \"swl_t\": _s(p.swl_t),\n                \"serial\": p.serial},",
+        "detail": "api.routers.units",
+        "documentation": {}
+    },
+    {
+        "label": "list_units",
+        "kind": 2,
+        "importPath": "api.routers.units",
+        "description": "api.routers.units",
+        "peekOfCode": "def list_units(include_deleted: bool = False) -> List[UnitOut]:\n    us = state.units()\n    return [to_out(u) for u in (us if include_deleted else active_units(us))]\n@router.get(\"/units/fields\")\ndef unit_fields():\n    \"\"\"The twelve persisted fields, with labels and units. Served so the UI\n    can build the New/Edit form without hardcoding a second copy of the\n    parameter list.\"\"\"\n    return [{\"key\": k, \"label\": lbl, \"unit\": u} for k, lbl, u in PERSISTED_FIELDS]\n@router.get(\"/units/status\")",
+        "detail": "api.routers.units",
+        "documentation": {}
+    },
+    {
+        "label": "unit_fields",
+        "kind": 2,
+        "importPath": "api.routers.units",
+        "description": "api.routers.units",
+        "peekOfCode": "def unit_fields():\n    \"\"\"The twelve persisted fields, with labels and units. Served so the UI\n    can build the New/Edit form without hardcoding a second copy of the\n    parameter list.\"\"\"\n    return [{\"key\": k, \"label\": lbl, \"unit\": u} for k, lbl, u in PERSISTED_FIELDS]\n@router.get(\"/units/status\")\ndef units_status():\n    \"\"\"Daily Asana snapshot. `snapshot_at` is always returned - the UI shows\n    the age, so nobody reads a three-day-old position as today's.\"\"\"\n    return load_status()",
+        "detail": "api.routers.units",
+        "documentation": {}
+    },
+    {
+        "label": "units_status",
+        "kind": 2,
+        "importPath": "api.routers.units",
+        "description": "api.routers.units",
+        "peekOfCode": "def units_status():\n    \"\"\"Daily Asana snapshot. `snapshot_at` is always returned - the UI shows\n    the age, so nobody reads a three-day-old position as today's.\"\"\"\n    return load_status()\n@router.post(\"/units\", response_model=UnitOut, status_code=201)\ndef create_unit(body: UnitWrite, owner: str = Depends(current_user)) -> UnitOut:\n    u = PHCUnit(name=body.name, applications=body.applications, note=body.note)\n    for k, v in body.params.items():\n        if k in _KEYS:\n            setattr(u, k, float(v))",
+        "detail": "api.routers.units",
+        "documentation": {}
+    },
+    {
+        "label": "create_unit",
+        "kind": 2,
+        "importPath": "api.routers.units",
+        "description": "api.routers.units",
+        "peekOfCode": "def create_unit(body: UnitWrite, owner: str = Depends(current_user)) -> UnitOut:\n    u = PHCUnit(name=body.name, applications=body.applications, note=body.note)\n    for k, v in body.params.items():\n        if k in _KEYS:\n            setattr(u, k, float(v))\n    return to_out(state.mutate(lambda us: add_unit(us, u)))\n# A unit name contains a slash (\"X-4500 325/400-001\"), so it can never be a\n# path segment. Name goes in the body or the query string instead.\n@router.post(\"/units/variant\", response_model=UnitOut, status_code=201)\ndef create_variant(body: VariantWrite,",
+        "detail": "api.routers.units",
+        "documentation": {}
+    },
+    {
+        "label": "create_variant",
+        "kind": 2,
+        "importPath": "api.routers.units",
+        "description": "api.routers.units",
+        "peekOfCode": "def create_variant(body: VariantWrite,\n                   owner: str = Depends(current_user)) -> UnitOut:\n    \"\"\"Edit as variant. Catalogue units are never overwritten - enforced here,\n    not only greyed out in the UI, because the API is a second consumer.\"\"\"\n    changes = {k: float(v) for k, v in body.changes.items() if k in _KEYS}\n    return to_out(state.mutate(\n        lambda us: save_as_variant(us, body.base_name, changes, body.new_name)))\n@router.delete(\"/units\", response_model=UnitOut)\ndef remove_unit(name: str, owner: str = Depends(current_user)) -> UnitOut:\n    \"\"\"Soft delete (state = 0), matching the old TDMS. Old cases still resolve",
+        "detail": "api.routers.units",
+        "documentation": {}
+    },
+    {
+        "label": "remove_unit",
+        "kind": 2,
+        "importPath": "api.routers.units",
+        "description": "api.routers.units",
+        "peekOfCode": "def remove_unit(name: str, owner: str = Depends(current_user)) -> UnitOut:\n    \"\"\"Soft delete (state = 0), matching the old TDMS. Old cases still resolve\n    the unit they were run against.\"\"\"\n    return to_out(state.mutate(lambda us: delete_unit(us, name)))",
+        "detail": "api.routers.units",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.routers.units",
+        "description": "api.routers.units",
+        "peekOfCode": "router = APIRouter()\n_KEYS = [k for k, _, _ in PERSISTED_FIELDS]\ndef _s(v):\n    return None if v is None else str(v)\ndef to_out(u: PHCUnit) -> UnitOut:\n    p = u.parsed\n    return UnitOut(\n        name=u.name, origin=u.origin, state=u.state, measured=u.measured,\n        applications=u.applications, note=u.note,\n        params={k: getattr(u, k) for k in _KEYS},",
+        "detail": "api.routers.units",
+        "documentation": {}
+    },
+    {
+        "label": "_KEYS",
+        "kind": 5,
+        "importPath": "api.routers.units",
+        "description": "api.routers.units",
+        "peekOfCode": "_KEYS = [k for k, _, _ in PERSISTED_FIELDS]\ndef _s(v):\n    return None if v is None else str(v)\ndef to_out(u: PHCUnit) -> UnitOut:\n    p = u.parsed\n    return UnitOut(\n        name=u.name, origin=u.origin, state=u.state, measured=u.measured,\n        applications=u.applications, note=u.note,\n        params={k: getattr(u, k) for k in _KEYS},\n        derived=u.derived(),",
+        "detail": "api.routers.units",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "kind": 2,
+        "importPath": "api.deps",
+        "description": "api.deps",
+        "peekOfCode": "def current_user(x_user: str | None = Header(default=None, alias=\"X-User\")) -> str:\n    owner = (x_user or DEV_USER).strip().lower()\n    if not valid_owner(owner):\n        raise HTTPException(400, \"X-User must be 1-64 chars of a-z 0-9 . _ -\")\n    return owner",
+        "detail": "api.deps",
+        "documentation": {}
+    },
+    {
+        "label": "DEV_USER",
+        "kind": 5,
+        "importPath": "api.deps",
+        "description": "api.deps",
+        "peekOfCode": "DEV_USER = os.getenv(\"LIFTSIM_DEV_USER\", \"dev\")\ndef current_user(x_user: str | None = Header(default=None, alias=\"X-User\")) -> str:\n    owner = (x_user or DEV_USER).strip().lower()\n    if not valid_owner(owner):\n        raise HTTPException(400, \"X-User must be 1-64 chars of a-z 0-9 . _ -\")\n    return owner",
+        "detail": "api.deps",
+        "documentation": {}
+    },
+    {
+        "label": "install",
+        "kind": 2,
+        "importPath": "api.errors",
+        "description": "api.errors",
+        "peekOfCode": "def install(app: FastAPI) -> None:\n    @app.exception_handler(RegistryError)\n    def _registry(request: Request, exc: RegistryError):\n        return JSONResponse({\"detail\": str(exc)}, status_code=409)\n    @app.exception_handler(CaseError)\n    def _case(request: Request, exc: CaseError):\n        code = 404 if str(exc).startswith(\"no case\") else 400\n        return JSONResponse({\"detail\": str(exc)}, status_code=code)",
+        "detail": "api.errors",
+        "documentation": {}
+    },
+    {
+        "label": "health",
+        "kind": 2,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "def health():\n    return {\"status\": \"ok\"}",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "app = FastAPI()\n# 允许的前端来源\nALLOWED_ORIGINS = [\n    \"https://liftsim.streamlit.app\",  # 生产\n    \"http://localhost:8501\",           # 本地开发\n]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=ALLOWED_ORIGINS,\n    allow_credentials=True,",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "ALLOWED_ORIGINS = [\n    \"https://liftsim.streamlit.app\",  # 生产\n    \"http://localhost:8501\",           # 本地开发\n]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=ALLOWED_ORIGINS,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "LiftPointIn",
+        "kind": 6,
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "peekOfCode": "class LiftPointIn(BaseModel):\n    enabled: bool = True\n    depth_m: float = 0.0\n    stroke_m: float = 0.0\n    mode: Literal[\"SZ\", \"SS\"] = \"SZ\"\nclass ClientInputs(BaseModel):\n    \"\"\"What the lift itself dictates - comes from the job spec.\"\"\"\n    air_weight_kg: float = Field(255_000.0, gt=0)\n    wet_weight_kg: float = Field(202_800.0, gt=0)\n    payload_height_m: float = Field(7.0, ge=0)",
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ClientInputs",
+        "kind": 6,
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "peekOfCode": "class ClientInputs(BaseModel):\n    \"\"\"What the lift itself dictates - comes from the job spec.\"\"\"\n    air_weight_kg: float = Field(255_000.0, gt=0)\n    wet_weight_kg: float = Field(202_800.0, gt=0)\n    payload_height_m: float = Field(7.0, ge=0)\n    rigging_height_m: float = Field(36.0, ge=0)\n    start_depth_m: float = -50.0\n    final_depth_m: float = 1380.0\n    lifting_sequence: List[LiftPointIn] = Field(default_factory=list)\n    # only what is implemented is offered. \"User table\" used to fall back to",
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SafelinkInputs",
+        "kind": 6,
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "peekOfCode": "class SafelinkInputs(BaseModel):\n    \"\"\"What Safelink brings: the unit and how it is set up.\"\"\"\n    p_sz_barg: float = Field(84.2, ge=0)\n    p_ss_barg: float = Field(83.1, ge=0)\n    p_hp_barg: float = Field(300.0, ge=0)\n    p_lp_barg: float = Field(0.0, ge=0)\n    priorities: List[str] = Field(default_factory=list)\n    orientation: Literal[\"Rod down\", \"Rod up\"] = \"Rod down\"\n    hysteresis_bar: float = Field(0.0, ge=0)\nclass SimRequest(BaseModel):",
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SimRequest",
+        "kind": 6,
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "peekOfCode": "class SimRequest(BaseModel):\n    unit_name: str\n    client_inputs: ClientInputs = Field(default_factory=ClientInputs)\n    safelink_inputs: SafelinkInputs = Field(default_factory=SafelinkInputs)\n    # capped: the cost is linear in steps and this endpoint is synchronous\n    depth_steps: int = Field(241, ge=2, le=5000)\n# --------------------------------------------------------------- outputs\nclass Columns(BaseModel):\n    depth_m: List[float]\n    T_c: List[float]",
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Columns",
+        "kind": 6,
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "peekOfCode": "class Columns(BaseModel):\n    depth_m: List[float]\n    T_c: List[float]\n    P_env_bar: List[float]\n    P_oil_barg: List[float]\n    P_sz_barg: List[float]\n    P_ss_barg: List[float]\n    P_hp_barg: List[float]\n    stroke_m: List[float]\n    n_sz: List[float]",
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Verdict",
+        "kind": 6,
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "peekOfCode": "class Verdict(BaseModel):\n    suitable: bool\n    lines: List[str] = Field(default_factory=list)\nclass SimResponse(BaseModel):\n    input_hash: str\n    engine_version: str\n    placeholder: bool           # true until the real solver is wired up\n    n_steps: int\n    runtime_s: float\n    columns: Columns",
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SimResponse",
+        "kind": 6,
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "peekOfCode": "class SimResponse(BaseModel):\n    input_hash: str\n    engine_version: str\n    placeholder: bool           # true until the real solver is wired up\n    n_steps: int\n    runtime_s: float\n    columns: Columns\n    kpi: Dict[str, float]\n    verdict: Verdict\n    events: List[Dict] = Field(default_factory=list)",
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UnitOut",
+        "kind": 6,
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "peekOfCode": "class UnitOut(BaseModel):\n    name: str\n    origin: str\n    state: int\n    measured: bool\n    applications: List[str] = Field(default_factory=list)\n    params: Dict[str, float]     # the 12 persisted fields\n    derived: Dict[str, float]    # areas, recomputed - never stored\n    parsed: Dict[str, Optional[str]]\n    note: str = \"\"",
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UnitWrite",
+        "kind": 6,
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "peekOfCode": "class UnitWrite(BaseModel):\n    name: str\n    params: Dict[str, float] = Field(default_factory=dict)\n    applications: List[str] = Field(default_factory=list)\n    note: str = \"\"\nclass VariantWrite(BaseModel):\n    base_name: str\n    new_name: Optional[str] = None\n    changes: Dict[str, float] = Field(default_factory=dict)\n# --------------------------------------------------------------- cases",
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "VariantWrite",
+        "kind": 6,
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "peekOfCode": "class VariantWrite(BaseModel):\n    base_name: str\n    new_name: Optional[str] = None\n    changes: Dict[str, float] = Field(default_factory=dict)\n# --------------------------------------------------------------- cases\nclass CaseWrite(BaseModel):\n    name: str\n    inputs: Dict\nclass CaseMeta(BaseModel):\n    id: str",
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CaseWrite",
+        "kind": 6,
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "peekOfCode": "class CaseWrite(BaseModel):\n    name: str\n    inputs: Dict\nclass CaseMeta(BaseModel):\n    id: str\n    owner: str\n    name: str\n    created_utc: str\n    updated_utc: str\nclass CaseFull(CaseMeta):",
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CaseMeta",
+        "kind": 6,
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "peekOfCode": "class CaseMeta(BaseModel):\n    id: str\n    owner: str\n    name: str\n    created_utc: str\n    updated_utc: str\nclass CaseFull(CaseMeta):\n    inputs: Dict",
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CaseFull",
+        "kind": 6,
+        "importPath": "api.schemas",
+        "description": "api.schemas",
+        "peekOfCode": "class CaseFull(CaseMeta):\n    inputs: Dict",
+        "detail": "api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "units",
+        "kind": 2,
+        "importPath": "api.state",
+        "description": "api.state",
+        "peekOfCode": "def units() -> List[PHCUnit]:\n    global _units_mtime_ns\n    with _lock:\n        try:\n            mtime_ns = DEFAULT_PATH.stat().st_mtime_ns\n        except FileNotFoundError:\n            mtime_ns = None\n        if mtime_ns != _units_mtime_ns:\n            _units[:] = load_units(DEFAULT_PATH)\n            _units_mtime_ns = mtime_ns",
+        "detail": "api.state",
+        "documentation": {}
+    },
+    {
+        "label": "replace_units",
+        "kind": 2,
+        "importPath": "api.state",
+        "description": "api.state",
+        "peekOfCode": "def replace_units(new: List[PHCUnit], path=DEFAULT_PATH) -> None:\n    global _units_mtime_ns\n    with _lock:\n        save_units(new, path)\n        _units[:] = new\n        _units_mtime_ns = path.stat().st_mtime_ns\ndef mutate(fn, path=DEFAULT_PATH):\n    \"\"\"Apply fn(units) under the lock, re-reading from disk first so a change\n    made by another process is not silently overwritten.\"\"\"\n    global _units_mtime_ns",
+        "detail": "api.state",
+        "documentation": {}
+    },
+    {
+        "label": "mutate",
+        "kind": 2,
+        "importPath": "api.state",
+        "description": "api.state",
+        "peekOfCode": "def mutate(fn, path=DEFAULT_PATH):\n    \"\"\"Apply fn(units) under the lock, re-reading from disk first so a change\n    made by another process is not silently overwritten.\"\"\"\n    global _units_mtime_ns\n    with _lock:\n        fresh = load_units(path)\n        result = fn(fresh)\n        save_units(fresh, path)\n        _units[:] = fresh\n        _units_mtime_ns = path.stat().st_mtime_ns",
+        "detail": "api.state",
+        "documentation": {}
+    },
+    {
+        "label": "warm_up",
+        "kind": 2,
+        "importPath": "api.state",
+        "description": "api.state",
+        "peekOfCode": "def warm_up(path=DEFAULT_PATH) -> None:\n    \"\"\"Runs in a background thread at startup. Never raises into the server:\n    a failed warm-up must surface as a readable message, not a blank page.\"\"\"\n    t0 = time.perf_counter()\n    try:\n        boot.update(step=1, label=BOOT_STEPS[1])\n        with _lock:\n            _units[:] = load_units(path)\n            global _units_mtime_ns\n            _units_mtime_ns = path.stat().st_mtime_ns if path.exists() else None",
+        "detail": "api.state",
+        "documentation": {}
+    },
+    {
+        "label": "cache_get",
+        "kind": 2,
+        "importPath": "api.state",
+        "description": "api.state",
+        "peekOfCode": "def cache_get(key: str) -> Optional[Dict]:\n    with _lock:\n        if key in _cache:\n            _cache.move_to_end(key)\n            return _cache[key]\n    return None\ndef cache_put(key: str, value: Dict) -> None:\n    with _lock:\n        _cache[key] = value\n        _cache.move_to_end(key)",
+        "detail": "api.state",
+        "documentation": {}
+    },
+    {
+        "label": "cache_put",
+        "kind": 2,
+        "importPath": "api.state",
+        "description": "api.state",
+        "peekOfCode": "def cache_put(key: str, value: Dict) -> None:\n    with _lock:\n        _cache[key] = value\n        _cache.move_to_end(key)\n        while len(_cache) > CACHE_MAX:\n            _cache.popitem(last=False)",
+        "detail": "api.state",
+        "documentation": {}
+    },
+    {
+        "label": "_lock",
+        "kind": 5,
+        "importPath": "api.state",
+        "description": "api.state",
+        "peekOfCode": "_lock = threading.RLock()\n_units: List[PHCUnit] = []\n_units_mtime_ns: Optional[int] = None\nengine = get_engine()\n# --- warm-up ------------------------------------------------------------\n# Named steps, reported as they happen. The sign-in page shows these while\n# the person types; a real step name reads as progress, a spinner does not.\nBOOT_STEPS = [\"Starting solver engine\", \"Loading unit registry\",\n              \"Reading fleet status snapshot\", \"Warming compute paths\"]\nboot = {\"step\": 0, \"label\": BOOT_STEPS[0], \"total\": len(BOOT_STEPS),",
+        "detail": "api.state",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "api.state",
+        "description": "api.state",
+        "peekOfCode": "engine = get_engine()\n# --- warm-up ------------------------------------------------------------\n# Named steps, reported as they happen. The sign-in page shows these while\n# the person types; a real step name reads as progress, a spinner does not.\nBOOT_STEPS = [\"Starting solver engine\", \"Loading unit registry\",\n              \"Reading fleet status snapshot\", \"Warming compute paths\"]\nboot = {\"step\": 0, \"label\": BOOT_STEPS[0], \"total\": len(BOOT_STEPS),\n        \"ready\": False, \"error\": None, \"elapsed_s\": 0.0}\ndef units() -> List[PHCUnit]:\n    global _units_mtime_ns",
+        "detail": "api.state",
+        "documentation": {}
+    },
+    {
+        "label": "BOOT_STEPS",
+        "kind": 5,
+        "importPath": "api.state",
+        "description": "api.state",
+        "peekOfCode": "BOOT_STEPS = [\"Starting solver engine\", \"Loading unit registry\",\n              \"Reading fleet status snapshot\", \"Warming compute paths\"]\nboot = {\"step\": 0, \"label\": BOOT_STEPS[0], \"total\": len(BOOT_STEPS),\n        \"ready\": False, \"error\": None, \"elapsed_s\": 0.0}\ndef units() -> List[PHCUnit]:\n    global _units_mtime_ns\n    with _lock:\n        try:\n            mtime_ns = DEFAULT_PATH.stat().st_mtime_ns\n        except FileNotFoundError:",
+        "detail": "api.state",
+        "documentation": {}
+    },
+    {
+        "label": "boot",
+        "kind": 5,
+        "importPath": "api.state",
+        "description": "api.state",
+        "peekOfCode": "boot = {\"step\": 0, \"label\": BOOT_STEPS[0], \"total\": len(BOOT_STEPS),\n        \"ready\": False, \"error\": None, \"elapsed_s\": 0.0}\ndef units() -> List[PHCUnit]:\n    global _units_mtime_ns\n    with _lock:\n        try:\n            mtime_ns = DEFAULT_PATH.stat().st_mtime_ns\n        except FileNotFoundError:\n            mtime_ns = None\n        if mtime_ns != _units_mtime_ns:",
+        "detail": "api.state",
+        "documentation": {}
+    },
+    {
+        "label": "CACHE_MAX",
+        "kind": 5,
+        "importPath": "api.state",
+        "description": "api.state",
+        "peekOfCode": "CACHE_MAX = 32\ndef cache_get(key: str) -> Optional[Dict]:\n    with _lock:\n        if key in _cache:\n            _cache.move_to_end(key)\n            return _cache[key]\n    return None\ndef cache_put(key: str, value: Dict) -> None:\n    with _lock:\n        _cache[key] = value",
+        "detail": "api.state",
+        "documentation": {}
+    },
+    {
+        "label": "FIG",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "FIG = Path(__file__).resolve().parent / \"web\" / \"figures\"\nst.set_page_config(page_title=\"Lift Simulator\", page_icon=FIG / \"sl_logo-init_p.png\",\n                   layout=\"wide\", initial_sidebar_state=\"expanded\")\nfrom ui import auth, chrome, client, dialogs, theme as T, views   # noqa: E402\n# The supplied wordmark is white + yellow, made for a dark background. It is\n# used unchanged, on a dark chip, rather than recoloured.\nT.inject()\nst.session_state.setdefault(\"compare\", [])\nst.session_state.setdefault(\"page\", \"sim\")\nst.session_state.setdefault(\"dialog\", None)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "msg",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "msg = st.session_state.pop(\"toast_msg\", None)\nif msg:\n    st.toast(msg)\n# ---- sidebar head -------------------------------------------------------\nwith st.sidebar:\n    _,lc,_ = st.columns([1,3,1])\n    with lc:\n        st.image(str(FIG / \"sl_logo.png\"), width=\"stretch\")\n    # add vertical space between logo and title row, so that the title row is not too close to the logo\n    st.html('<div style=\"height:.6rem\"></div>')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "req",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "req = None\ntry:\n    if st.session_state.page == \"sim\":\n        req = views.build_request()      # the rail is only part of Simulator\n        views.simulator(req)\n    else:\n        views.compare()\nexcept client.Unreachable:\n    st.error(\"Lost contact with the simulator backend. It may have been \"\n             \"stopped, or it crashed — see `logs/api.log`.\", icon=\"⛔\")",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "which",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "which = st.session_state.dialog\nif which:\n    st.session_state.dialog = None\n    if which == \"help\":\n        dialogs.help_doc()\n    elif which == \"signout\":\n        dialogs.sign_out()\n    elif which == \"unit\":\n        dialogs.unit_details()\n    elif which == \"units\":",
+        "detail": "app",
+        "documentation": {}
+    }
+]
