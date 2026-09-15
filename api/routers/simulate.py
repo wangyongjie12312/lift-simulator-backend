@@ -40,7 +40,7 @@ def simulate(req: SimRequest, owner: str = Depends(current_user)) -> SimResponse
     if unit is None or not unit.active:
         raise HTTPException(404, f"no active unit named {req.unit_name!r}")
 
-    key = input_hash(req.model_dump())
+    key = input_hash(req.model_dump(exclude={"application"}))
     hit = state.cache_get(key)
     if hit is not None:
         return SimResponse(**hit)

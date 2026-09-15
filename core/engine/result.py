@@ -8,7 +8,7 @@ from typing import Dict, List
 
 @dataclass
 class SimResult:
-    """一次仿真的完整输出。列名与旧程序前面板指示器一一对应。"""
+    """The shape of a simulation answer."""
 
     depth_m: List[float] = field(default_factory=list)
     T_c: List[float] = field(default_factory=list)

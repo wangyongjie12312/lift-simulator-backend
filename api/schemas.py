@@ -8,6 +8,15 @@ from typing import Dict, List, Literal, Optional
 
 from pydantic import BaseModel, Field, field_validator
 
+APPLICATIONS = (
+    "Splash zone", "Subsea landing", "Resonance mitigation",
+    "Salvage protection", "Pile running protection", "Other",
+)
+Application = Literal[
+    "Splash zone", "Subsea landing", "Resonance mitigation",
+    "Salvage protection", "Pile running protection", "Other",
+]
+
 
 # --------------------------------------------------------------- inputs
 class LiftPointIn(BaseModel):
@@ -53,6 +62,8 @@ class SafelinkInputs(BaseModel):
 
 class SimRequest(BaseModel):
     unit_name: str
+    # Stored with a case for traceability; the solver does not use it.
+    application: Application = "Other"
     client_inputs: ClientInputs = Field(default_factory=ClientInputs)
     safelink_inputs: SafelinkInputs = Field(default_factory=SafelinkInputs)
     # capped: the cost is linear in steps and this endpoint is synchronous
@@ -133,3 +144,12 @@ class CaseMeta(BaseModel):
 
 class CaseFull(CaseMeta):
     inputs: Dict
+
+
+class CaseFileRecord(BaseModel):
+    name: str = "Untitled"
+    inputs: SimRequest
+
+
+class CaseFilePayload(BaseModel):
+    cases: List[CaseFileRecord] = Field(default_factory=list)

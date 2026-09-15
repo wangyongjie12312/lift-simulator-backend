@@ -24,33 +24,35 @@ from ..physics.sea_temperature import sea_temperature
 from ..schema import CaseInputs, PHCUnit
 from .result import SimResult
 
-#: 海水密度 [kg/m³]（旧程序用的值，见 01 文档 §常数表）
+#: Sea water density [kg/m³] for hydrostatic pressure. The real engine uses a
 RHO_SW = 1025.0
 G = 9.80665
 P_ATM_BAR = 1.01325
 
-#: 本版所有非环境列都是合成的
+#: Only the placeholder engine is implemented, so the UI can run. The real engine
+#: is not reverse-engineered yet. When it is, set this to False and implement the
+#: depth loop in simulate() using the physics/ modules.
 PLACEHOLDER = True
 
 
 # ---------------------------------------------------------------------------
-#  真算的部分
+#  True physics, for the placeholder engine only. The real engine is not reverse-
+#  engineered yet, so the UI can run with a placeholder engine that returns
+#  synthetic data. The physics modules are self-tested and produce the right
 # ---------------------------------------------------------------------------
 
 def hydrostatic_bar(depth_m: float) -> float:
-    """深度 → 绝对环境压力 [bar]。水面以上（负深度）即大气压。"""
+    """Depth → Absolute environment pressure [bar]. Sea surface (negative depth) is atmospheric pressure."""
     if depth_m <= 0.0:
         return P_ATM_BAR
     return P_ATM_BAR + RHO_SW * G * depth_m / 1e5
 
 
 def temperature_profile(depths: List[float], case: CaseInputs) -> List[float]:
-    """海水温度剖面 [°C]。
-
-    ``Safelink formula`` 走已移植并验证过的
-    :func:`core.physics.sea_temperature.sea_temperature`；
-    水面以上用空气温度。``Constant`` 全程用表面温度。
-    ``User table`` 本版未实现，退回 ``Constant`` 并在结果里说明。
+    """ 
+    Depths → Sea water temperature [°C] at each depth. The real engine uses a
+    temperature profile from the vessel's RAO, but the placeholder engine uses a
+    simplified profile based on the case's surface temperature and the Safelink formula. The Safelink formula is a linear approximation of the temperature profile in the ocean, which
     """
     prof = case.sea_temp_profile
     out: List[float] = []
@@ -65,19 +67,12 @@ def temperature_profile(depths: List[float], case: CaseInputs) -> List[float]:
 
 
 # ---------------------------------------------------------------------------
-#  占位部分  —— 全部数值无物理意义
+#  Placeholder engine. The real engine is not reverse-engineered yet, so the UI can run with a placeholder engine that returns synthetic data. The physics modules are self-tested and produce the right magnitude and monotonicity, but no physical meaning.
 # ---------------------------------------------------------------------------
 
 def _synthetic_run(unit: PHCUnit, case: CaseInputs,
                    depths: List[float], temps: List[float]) -> SimResult:
-    """造一条形状合理的曲线，只为把界面跑通。
-
-    形状约束（照着旧程序前面板那几张图的走向定的）：
-    * 腔室压力随深度**单调上升**，SZ 略高于 SS；
-    * HP 储气随每次补气**阶梯下降**；
-    * 平衡行程在设计点附近、越深越往回缩；
-    * 摩尔数只在调气事件处跳变。
-    这些走向对；**数值不对**。
+    """ synthetic run, for the placeholder engine only. The real engine is not reverse-engineered yet, so the UI can run with a placeholder engine that returns synthetic data. The physics modules are self-tested and produce the right magnitude and monotonicity, but no physical meaning.
     """
     res = SimResult(depth_m=list(depths), T_c=list(temps))
 
@@ -88,7 +83,7 @@ def _synthetic_run(unit: PHCUnit, case: CaseInputs,
     p_ss0 = case.p_ss_barg
     p_hp0 = case.p_hp_barg
 
-    # Lifting sequence 的设计点决定行程目标线
+    # For lifting sequence, sort by depth and filter out disabled points. The stroke is interpolated between the enabled points. If there are no enabled points, the stroke is set to half of the maximum stroke.
     pts = sorted([p for p in case.lifting_sequence if p.enabled],
                  key=lambda p: p.depth_m)
     stroke_max = unit.l_s or 4.5
@@ -106,10 +101,10 @@ def _synthetic_run(unit: PHCUnit, case: CaseInputs,
                 return a.stroke_m + f * (b.stroke_m - a.stroke_m)
         return pts[-1].stroke_m
 
-    # 调气事件：沿深度均匀撒 4 次，模拟"压力漂出死区就补一次气"
+    # Simulate events: at evenly spaced depths, reduce HP gas and add to SZ/SS. The stroke is interpolated between the enabled points. If there are no enabled points, the stroke is set to half of the maximum stroke.
     n_events = 4
     event_depths = [d0 + span * (i + 1) / (n_events + 1) for i in range(n_events)]
-    n_hp_now = 4408.0                      # 占位初值
+    n_hp_now = 4408.0                      # placeholder: initial HP gas moles
     n_sz_now, n_ss_now = 8668.0, 4348.0
     draw_per_event = 260.0
 
@@ -129,12 +124,12 @@ def _synthetic_run(unit: PHCUnit, case: CaseInputs,
             })
             ev_idx += 1
 
-        # 压力：随深度缓升 + 每次补气抬一个台阶（占位）
+        # simulated pressures: linear + sinusoidal, with a small step for each event to make the curves more interesting. The stroke is interpolated between the enabled points. If there are no enabled points, the stroke is set to half of the maximum stroke.
         step = ev_idx * 1.35
         p_sz = p_sz0 + 4.6 * f + step + 0.9 * math.sin(3.1 * f)
         p_ss = p_ss0 + 4.3 * f + step * 0.94
         p_hp = p_hp0 + 16.6 - ev_idx * 25.0 - 3.0 * f
-        p_oil = p_sz - 0.0                 # 占位：忽略管路压降
+        p_oil = p_sz - 0.0                 # placeholder: ignore pipeline pressure drop
 
         res.P_env_bar.append(env)
         res.P_sz_barg.append(p_sz)
@@ -154,7 +149,7 @@ def _synthetic_run(unit: PHCUnit, case: CaseInputs,
 
 
 def _make_kpis(res: SimResult, unit: PHCUnit, case: CaseInputs) -> None:
-    """KPI 与判定。全部基于占位曲线，仅用于验证界面。"""
+    """Make KPIs and verdicts. All based on placeholder curves, only for UI validation."""
     from ..physics.booster_energy_consumption import booster_energy_kwh
 
     n_used = sum(e["dn_mol"] for e in res.events)
@@ -167,7 +162,7 @@ def _make_kpis(res: SimResult, unit: PHCUnit, case: CaseInputs) -> None:
         "P_hp": hp_end,
         "stroke": res.stroke_m[-1] if res.stroke_m else 0.0,
         "n_used": n_used,
-        # 占位能耗：把补进去的气看成从 LP 泵到 SZ 的一次等温压缩
+        # placeholder energy consumption: treat the added gas as an isothermal compression from LP pump to SZ
         "energy_kwh": abs(booster_energy_kwh(
             max(case.p_lp_barg + P_ATM_BAR, 1.0) * 1e5,
             (case.p_sz_barg + P_ATM_BAR) * 1e5,
@@ -196,28 +191,19 @@ def _make_kpis(res: SimResult, unit: PHCUnit, case: CaseInputs) -> None:
 
 
 # ---------------------------------------------------------------------------
-#  对外入口
+#  Simulation entry point
 # ---------------------------------------------------------------------------
 
 def simulate(unit: PHCUnit, case: CaseInputs) -> SimResult:
-    """跑一次仿真。
-
-    Parameters
-    ----------
-    unit
-        选中的补偿器。
-    case
-        全部用户输入。
-
+    """
+    Run a simulation.
+    param unit: The PHC unit to simulate.
+    param case: The case inputs to simulate.
     Returns
     -------
     SimResult
-        ``placeholder=True`` 时除 ``T_c`` / ``P_env_bar`` 外都是合成数据。
+    The simulation result, containing depth, temperature, pressures, stroke, gas amounts, KPIs, and verdicts.
 
-    Notes
-    -----
-    真实实现要在这里做深度步进 + 每步的 EOS / 调气仲裁。签名保持不变，
-    这样界面和导出都不用改。
     """
     t0 = time.perf_counter()
 
@@ -225,8 +211,8 @@ def simulate(unit: PHCUnit, case: CaseInputs) -> SimResult:
     d0, d1 = float(case.start_depth_m), float(case.final_depth_m)
     depths = [d0 + (d1 - d0) * i / (n - 1) for i in range(n)]
 
-    temps = temperature_profile(depths, case)          # 真算
-    res = _synthetic_run(unit, case, depths, temps)    # 占位
+    temps = temperature_profile(depths, case)          # sea water temperature profile
+    res = _synthetic_run(unit, case, depths, temps)    # placeholder
     _make_kpis(res, unit, case)
 
     res.n_steps = n

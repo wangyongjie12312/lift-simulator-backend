@@ -2,10 +2,11 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from api import state
+from api import errors, state
 from api.routers import cases, health, public, simulate, units
 
 app = FastAPI()
+errors.install(app)   # RegistryError -> 409, CaseError -> 404/400 instead of 500
 
 # 允许的前端来源
 ALLOWED_ORIGINS = [

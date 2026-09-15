@@ -688,6 +688,14 @@
         "documentation": {}
     },
     {
+        "label": "state",
+        "importPath": "api",
+        "description": "api",
+        "isExtraImport": true,
+        "detail": "api",
+        "documentation": {}
+    },
+    {
         "label": "input_hash",
         "importPath": "core.hashing",
         "description": "core.hashing",
@@ -878,6 +886,46 @@
         "description": "fastapi.middleware.cors",
         "isExtraImport": true,
         "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "cases",
+        "importPath": "api.routers",
+        "description": "api.routers",
+        "isExtraImport": true,
+        "detail": "api.routers",
+        "documentation": {}
+    },
+    {
+        "label": "health",
+        "importPath": "api.routers",
+        "description": "api.routers",
+        "isExtraImport": true,
+        "detail": "api.routers",
+        "documentation": {}
+    },
+    {
+        "label": "public",
+        "importPath": "api.routers",
+        "description": "api.routers",
+        "isExtraImport": true,
+        "detail": "api.routers",
+        "documentation": {}
+    },
+    {
+        "label": "simulate",
+        "importPath": "api.routers",
+        "description": "api.routers",
+        "isExtraImport": true,
+        "detail": "api.routers",
+        "documentation": {}
+    },
+    {
+        "label": "units",
+        "importPath": "api.routers",
+        "description": "api.routers",
+        "isExtraImport": true,
+        "detail": "api.routers",
         "documentation": {}
     },
     {
@@ -1478,11 +1526,11 @@
         "documentation": {}
     },
     {
-        "label": "health",
+        "label": "start_warm_up",
         "kind": 2,
         "importPath": "api.main",
         "description": "api.main",
-        "peekOfCode": "def health():\n    return {\"status\": \"ok\"}",
+        "peekOfCode": "def start_warm_up() -> None:\n    state.warm_up()",
         "detail": "api.main",
         "documentation": {}
     },
